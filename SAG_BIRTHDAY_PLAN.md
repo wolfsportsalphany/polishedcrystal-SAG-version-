@@ -238,8 +238,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Uncle Matt** & **Uncle Jason** | Twins, "crazy uncles" | Paramus |
 | **Uncle Donut** | Short, Napoleon complex (cf. Justin) | Paramus |
 | Maternal grandparents | Remembered (deceased) — respectful memorial | Old Brookville |
-| **John Altorelli** | Law-internship character | Sidley Austin, NYC |
-| "The Russian spy" | Quirky law-internship NPC (he dated) | Sidley Austin, NYC |
+| **John Altorelli** | **Gym 1 Leader** — took over Sidley Austin as his gym | Sidley Austin, NYC |
+| **"The Russian spy"** (Altorelli's GF) | Back together w/ Altorelli; co-runs Gym 1; Russian goons | Sidley Austin, NYC |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -505,12 +505,17 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   scalpers as trainers, flyer-handers blocking the way, tourist crowds).
 - **Rival gate:** **Justin** blocks the entrance for the **first rival battle** (Eevee vs Eevee;
   Pilates-studio brag; Jared/wedding roast).
-- **Leader (draft):** **John Altorelli** (managing partner). **Type:** TBD — keep PC Gym-1 type or
-  re-theme (suggest a "white-collar" flavor; e.g., Normal/Psychic "billable-hours" theme).
-- **Team theme:** sharp-dressed corporate mons; paralegals/associates as grunt trainers.
-- **Subplot seed:** introduces the **"Russian spy"** / law-internship espionage thread (pays off
-  later). **Full roast** — billable hours, "we'll circle back," overworked associates.
-- **Badge/reward:** TBD name (e.g., "Retainer Badge").
+- **STORY (locked 2026-06-21):** **John Altorelli and his Russian-spy girlfriend are back
+  together**, and together they've **taken over Sidley Austin and converted the firm into his
+  gym.** It's now their turf — a corporate-coup vibe. **His goons are all Russian** (Russian
+  agents/heavies as the grunt trainers throughout the floors).
+- **Leader:** **John Altorelli** (atop the tower), with the **Russian spy GF** as his right-hand
+  (mini-boss / co-leader fight, or a guaranteed battle just before him). **Type:** TBD — keep PC
+  Gym-1 type or re-theme. Given the Russian-spy angle, **Poison/Dark "spy" flavor** could fit
+  better than white-collar; decide when we set gym types.
+- **Team theme:** Altorelli = sharp corporate-lawyer mons; the spy GF + Russian goons = sneaky
+  Poison/Dark "agent" mons. Full roast — billable hours, vodka jokes, "is colluding," etc.
+- **Badge/reward:** TBD name.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
