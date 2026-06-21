@@ -84,6 +84,12 @@ in milestones.
     rowdy/"party" mons; gritty NYC streets → urban mons (Rattata, Grimer/Muk, Pidgey, Meowth);
     Yankee Stadium → flashy heavy hitters. Starters & legendaries likewise picked to fit the
     story beat where they're obtained.
+  - **SHANE'S FAVORITE LINES — feature prominently:**
+    - **Primeape line (Mankey → Primeape)** — give it a starring role: available/obtainable early
+      and meaningfully (great fit for the baseball/Fighting/NYC-tough-guy vibe), showcased on key
+      ally/opponent teams. A signature 'mon for Shane.
+    - **Dragonite line (Dratini → Dragonair → Dragonite)** — already special via the **courier
+      Dragonite** one-off event; lean into the line as a prestige/aspirational Pokémon.
 
 ### Method (how we churn through it without drowning)
 1. **Define the "bible" first:** the new world's theme, the renamed Pokémon list, and the cast of
@@ -218,7 +224,9 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 | **Times Square** (Route 1) | tourist-trap chaos | costumed characters, Naked Cowboy, scalpers | the funny "route" from Hudson Yards to the office — see Opening seq. |
 | **West Village** | brownstone childhood home | **Mom & Dad** | the family home; parents send you off / give gear |
 | **Upper East Side** | posh; **The Town School** | childhood friends, teachers | grade-school throwback; earliest memories |
-| **Randalls Island** | ballfields/park | baseball teammates/coach | Shane's HS baseball; a "big game" event |
+| **Randalls Island** | real explorable ballfields/park island | baseball teammates/coach | Shane's HS baseball; a "big game" event; fishing off the water |
+| **Central Park** | big iconic green expanse | joggers, dog-walkers, chess hustlers | major hub park — wild encounters, trainers, hidden items |
+| **Riverside Park** (West Side Hwy) | LONG, NARROW greenway | runners, bikers | a super-long **4-tiles-wide** scenic green path/route hugging the river |
 | **Central Synagogue** | landmark | rabbi/cantor | bar-mitzvah-era memory (respectful + funny) |
 | **Williamsburg, Bklyn** | hipster law-student life | **Cali** (sister, Brooklyn Law) | visit lil sis; she ribs Shane |
 | **Bronx** | stadium district | Yankees fans | **Yankee Stadium** landmark/event |
@@ -234,11 +242,20 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 > Landmarks like **MSG** and **Barclays** = set-piece event venues (concerts/games, special battles)
 > rather than full towns. **Riverdale Country School** = secondary school cameo.
 
-### Recurring citywide establishments
-- **Joe's Pizza** — a **chain with a location in every neighborhood/town** across the region.
-  Strong candidate to **re-skin the Pokémon Center** (grab a slice → team fully healed) and/or
-  serve as a recurring social hub with a friendly counter NPC. Consistent storefront everywhere
-  ties the whole NYC world together. *(Decision: use Joe's as the heal-spot, the Mart, or both?)*
+### Recurring citywide establishments (re-skinned, LOCATION-DEPENDENT)
+- **PokéMart → real chains, varying by location:** **CVS, Rite-Aid, Duane Reade, Walmart, Target,
+  bodegas**, etc. Pick whatever fits each neighborhood (get creative — a posh UES pharmacy vs a
+  gritty corner bodega vs a suburban Target/Walmart). Same Mart function, many storefronts.
+- **Pokémon Center → real heal spots, varying by location too:** e.g., **CityMD / urgent care,
+  hospitals (NYU Langone, Mount Sinai), a spa, a vet clinic** — location-appropriate. Same "heal
+  your team" function, different skins per area.
+- **Joe's Pizza** — recurring **chain in every neighborhood**, but **NOT** the Pokémon Center.
+  It's a flavor/social food spot (counter NPC, maybe sells a cheap healing "slice" item or buffs).
+  Consistent Joe's storefront everywhere ties the city together.
+- **Bars** — citywide nightlife spots (the underage-drinking roast included). Social hubs, quirky
+  NPCs, maybe drinking-themed items/sidequests. Full roast.
+- **Dispensaries (weed)** — NYC-style dispensaries as recurring establishments. Comedic NPCs/items,
+  full roast. (Keep it jokey/over-the-top, in the spirit of the gift.)
 
 ### Gyms — secondary layer (lighter, TBD)
 - Keep PC's 16-gym backbone, but gyms are **their own thing**, distributed across the towns above.
