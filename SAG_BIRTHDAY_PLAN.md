@@ -73,8 +73,10 @@ in milestones.
 - **Characters:** all NPCs/trainers — names, personalities, sprites where it matters.
 - **Pokémon — RESOLVED (2026-06-21):** keep the **same Pokédex** (all existing species, sprites,
   cries, dex). "New Pokémon" means **re-cast which Pokémon appear situationally**:
-  - signature gift: **Eevee** from Jared on floor 11 (the ONLY Eevee in the game).
-  - different **starters**, different **legendaries** (and their encounter events),
+  - **Shane starts with a pre-set PARTY: Level 1 Gastly + Level 1 Mankey** (his Haunter & Primeape
+    favorites). Eevee's fate TBD — see Opening seq. options (default: Jared still gifts it; it
+    stays the only obtainable Eevee).
+  - different **legendaries** (and their encounter events),
   - re-chosen **wild encounter tables** per area,
   - **every opponent's team** rebuilt (rivals, gym leaders, E4, route trainers, bosses).
   - No species renames, no new sprites/fakemon. This keeps it light + ships on time.
@@ -210,9 +212,20 @@ The concrete first slice of the game (Act I start):
    Tutorial/room beat, then head out to the elevator.
 2. **Elevator → 11th floor** — Shane takes the elevator **down to the 11th floor to visit his
    brother**. (Brother lives on floor 11; **Jared** is the neighbor in **apt 11I**.)
-3. **The Eevee gift** — on the 11th floor, **Jared** says he found a **Poké Ball with a rare
-   Pokémon** and wants Shane to have it → it's an **EEVEE**. This is the **only obtainable Eevee
-   in the entire game** (so it's Shane's signature starter/companion).
+3. **CHANGED (2026-06-21): Shane starts with a full PARTY** (no single-Eevee gift). The party is
+   pre-set at new-game start (see "Starting party" below). The **11th-floor visit becomes a
+   send-off**: the **brother** sees Shane off (gives gear — Pokédex / Town Map / running shoes /
+   key item), and **Jared** still gets a comedic bit.
+   - **STARTING PARTY (confirmed 2026-06-21): Level 1 Gastly + Level 1 Mankey.** (Leans straight
+     into his favorites — Haunter & Primeape lines. Both Lv1 = raise-from-scratch journey.)
+   - **Open / to reconcile (Eevee + the jokes):** Shane no longer starts with Eevee. Decide:
+     - **(a)** Cut Eevee entirely — then re-point Justin's roast at Shane's Gastly/Mankey instead;
+       Justin's own starter changes too. *(simplest)*
+     - **(b)** Jared still gifts an **Eevee** on floor 11 as a bonus 3rd member → keeps the "only
+       obtainable Eevee," the Justin Eevee-mirror battle, and the "rare / wedding" jokes intact.
+       *(Recommended — preserves the comedy + the signature Eevee with minimal change.)*
+     - **(c)** Eevee obtainable later somewhere meaningful instead.
+     *Default: (b) unless you say otherwise.*
 4. **Downstairs = Hudson Yards (explorable hub)** — the lobby/street level is the explorable
    **Hudson Yards** area. **Doormen NPCs: Robert, Eric, Jose, and Jonathon.** (Give each a distinct
    funny personality.)
