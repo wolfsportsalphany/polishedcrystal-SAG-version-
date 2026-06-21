@@ -188,6 +188,9 @@ The concrete first slice of the game (Act I start):
    runs up and blocks the entrance** and challenges him to a battle. In his intro he brags that
    he **owns a Pilates studio**, which (in his mind) is **way better than being a lawyer** — peak
    Napoleon-complex energy. (This is Shane's first encounter with the rival.)
+   - **Justin's starter = an Eevee too**, and he sneers that **Jared was wrong — "it's actually
+     not that rare."** (Rival-mirror battle: Eevee vs Eevee. Justin's Eevee is NPC-owned, so it
+     doesn't break "Shane's is the only *obtainable* Eevee.")
 7. **FIRST GYM = Sidley Austin law firm (Midtown)** — a **MULTI-STORY gym** (navigate floors of the
    office building, like an elevator/floor-puzzle gym). Set in Shane's corporate law firm.
    Leader likely **John Altorelli**; ties into the law-internship / "Russian spy" subplot.
