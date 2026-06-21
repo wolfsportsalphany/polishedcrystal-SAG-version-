@@ -154,7 +154,7 @@ Landmarks:
 	landmark  24, 120, FarawayIslandName
 	assert_table_length NUM_LANDMARKS
 
-NewBarkTownName:       rawchar "New Bark¯Town@"
+NewBarkTownName:       rawchar "Hudson¯Yards@"
 CherrygroveCityName:   rawchar "Cherrygrove¯City@"
 VioletCityName:        rawchar "Violet City@"
 AzaleaTownName:        rawchar "Azalea Town@"

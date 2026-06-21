@@ -240,6 +240,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | Maternal grandparents | Remembered (deceased) — respectful memorial | Old Brookville |
 | **John Altorelli** | **Gym 1 Leader** — took over Sidley Austin as his gym | Sidley Austin, NYC |
 | **"The Russian spy"** (Altorelli's GF) | Back together w/ Altorelli; co-runs Gym 1; Russian goons | Sidley Austin, NYC |
+| **Ms. Sokotch** | **Gym 2 Leader** — glasses, mean & ugly, terrifying schoolteacher | The Town School, UES (76th & East End) |
+| **Steven** & **Jake** | Trainers in the John Jay Park gauntlet after Gym 2 (friends/classmates?) | John Jay Park, UES |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -460,9 +462,10 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo Island:**
 0. **Hudson Yards** — START hub (not a gym)
    → route: **Times Square**
-1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED)*
-2. **The Town School (Upper East Side)** — GYM 2
-3. **Central Park** — GYM 3
+1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
+   → route: **Central Park** (green path Gym 1 → Gym 2)
+2. **The Town School (UES, 76th & East End)** — GYM 2 *(LOCKED; leader **Ms. Sokotch**)*
+3. **TBD** — GYM 3 *(Central Park is now the route to Gym 2, not a gym)*
 4. **Barclays / Williamsburg (Brooklyn)** — GYM 4
 5. **Yankee Stadium (Bronx)** — GYM 5
 6. **Central Synagogue** — GYM 6
@@ -516,6 +519,22 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Team theme:** Altorelli = sharp corporate-lawyer mons; the spy GF + Russian goons = sneaky
   Poison/Dark "agent" mons. Full roast — billable hours, vodka jokes, "is colluding," etc.
 - **Badge/reward:** TBD name.
+
+### #2 — THE TOWN SCHOOL (Upper East Side, 76th & East End) — GYM 2 — DRAFT
+- **Approach (route):** from Gym 1, head **through Central Park** to reach the Upper East Side.
+  **Central Park** = the green route between Gyms 1 and 2 (joggers, dog-walkers, chess hustlers as
+  trainers; bug/grass/normal wilds; Gastly at night).
+- **Location:** **The Town School**, **76th St & East End Ave**, Upper East Side.
+- **Leader (locked 2026-06-21):** **Ms. Sokotch** — give her **glasses**, and make her **mean and
+  ugly** (the strict, terrifying schoolteacher). Full-roast battle-axe energy.
+- **Map concept:** prep-school building — classrooms, hallways, lockers; students/teachers as grunt
+  trainers; detention/principal's-office vibe.
+- **Type:** TBD (school → could be Normal or Psychic "teacher's pet/smarty" theme).
+- **Badge/reward:** TBD name.
+- **POST-GYM BATTLES (locked 2026-06-21):** right after beating the Town School gym, in **John Jay
+  Park** (real UES park, ~76th by the East River, right outside the school), Shane battles a
+  gauntlet of **Steven**, **Jake**, and **Justin** (rival shows up again). Three back-to-back
+  trainer battles in the park. *(Steven & Jake = new characters — friends/classmates; confirm.)*
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
