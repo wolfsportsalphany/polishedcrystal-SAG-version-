@@ -251,6 +251,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Ms. Sokotch** | **Gym 2 Leader** — glasses, mean & ugly, terrifying schoolteacher | The Town School, UES (76th & East End) |
 | **Steven** & **Jake** | Trainers in the John Jay Park gauntlet after Gym 2 (friends/classmates?) | John Jay Park, UES |
 | **Dominic A.A. Randolph** | **Gym 4 Leader** — British old guy, posh headmaster | Riverdale Country School, the Bronx |
+| **Aaron Judge** | **Gym 5 Leader** — pro baseball slugger, "the big leagues" | Yankee Stadium, the Bronx |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -478,11 +479,12 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 3. **Randalls Island** — GYM 3 *(LOCKED; BASEBALL — teammates from Uptown/CYO/Thunder/Gothams/
    Riverdale/Titans; N&E of the Town School, an island)*
 4. **Riverdale Country School (the Bronx)** — GYM 4 *(LOCKED; leader **Dominic A.A. Randolph**, British old guy)*
-5. **Chelsea Piers** — GYM 5 *(LOCKED; sports complex, just N of West Village where Mom & Dad live)*
-   *(freed up: **Yankee Stadium** & **Barclays/Williamsburg** — re-slot later / south of here)*
-6. **Central Synagogue** — GYM 6
-7. **Paramus, NJ** — GYM 7
-8. **MSG (or Long Island)** — GYM 8
+5. **Yankee Stadium (the Bronx)** — GYM 5 *(LOCKED; leader **Aaron Judge** — PRO baseball / "the
+   big leagues"; comes right after Riverdale, both in the Bronx)*
+6. **Chelsea Piers** — GYM 6 *(LOCKED; sports complex, just N of West Village where Mom & Dad live)*
+7. **Central Synagogue** — GYM 7
+8. **Paramus, NJ** — GYM 8
+   *(MSG, Barclays/Williamsburg, Long Island → Act II / story venues, not Act-I gyms)*
    → **8th badge → courier Dragonite → MEWTWO ISLAND arc**
 **ACT II — college & later-life (Gyms 9–16), then Elite Four:**
 9. **UPenn / APES frat (Philly)** — GYM 9
@@ -573,7 +575,16 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   academia," or Steel "stiff upper lip"). Confirm at type pass.
 - **Badge/reward:** TBD name.
 
-### #5 — CHELSEA PIERS — GYM 5 — DRAFT
+### #5 — YANKEE STADIUM — GYM 5 (AARON JUDGE) — DRAFT
+- **Location:** **Yankee Stadium** (South **Bronx**) — comes right after Riverdale (both Bronx).
+- **Leader (locked 2026-06-21):** **Aaron Judge** — PRO baseball, "the big leagues." The pinnacle
+  baseball gym (vs Randalls = Shane's own youth/amateur ball). A genuine slugger boss.
+- **Map concept:** the ballpark — dugouts, bullpen, the field, the stands; pro players/coaches as
+  grunt trainers; walk-up-music flavor.
+- **Type:** likely **Fighting** (power hitters) or a "big-league" Normal/Flying flavor. Confirm.
+- **Badge/reward:** TBD (a baseball-themed badge).
+
+### #6 — CHELSEA PIERS — GYM 6 — DRAFT
 - **Location:** **Chelsea Piers** sports complex, Hudson River waterfront (west side), **just north
   of the West Village**.
 - **Adjacent story town: WEST VILLAGE** — **Mom & Dad** live here (Shane's later childhood home).
@@ -582,10 +593,12 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   long, narrow **4-tiles-wide** riverfront green path along the Hudson). This is the connecting
   "route" between the gym and the West Village.
 - **Theme:** big multi-sport athletic complex (golf range, batting cages, ice rink, gymnastics,
-  pools) — an all-around **sports/athletics gym**; athletes/coaches as grunt trainers.
-- **Type:** TBD (athletic → Fighting, or mixed-sport). Confirm at type pass.
-- **Leader / Badge:** TBD.
-- *Note:* Gym 5 is now Chelsea Piers, so **Yankee Stadium** is freed up — re-slot or drop it.
+  pools); athletes/coaches as grunt trainers.
+- **Leader (locked 2026-06-21): BATTING-CAGE related** — a batting-cage instructor / cage king
+  (pitching-machine showdown vibe; "step into the cage"). Fits the baseball thread without
+  duplicating Judge (pro) or Randalls (youth ball) — this is the *training cages* angle.
+- **Type:** TBD (athletic → Fighting, or Steel for pitching machines). Confirm at type pass.
+- **Badge/reward:** TBD.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
