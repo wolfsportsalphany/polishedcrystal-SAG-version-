@@ -7,9 +7,21 @@
 
 - **Recipient:** Shane Austin Gaer ("SAG")
 - **From:** _(to be filled in)_
-- **Base:** Polished Crystal v3.2.3 (pokecrystal disassembly)
+- **Base:** Polished Crystal v3.2.3 (pokecrystal disassembly) — kept for its QOL & modern features
 - **Working branch:** `claude/polished-crystal-fork-s4rysf`
 - **Started:** 2026-06-21
+
+### Base decision (2026-06-21)
+Shane has already played Polished Crystal and loves the Gen 1/2 era. Considered switching to a
+fresh base (vanilla `pret/pokecrystal`, Gen 1 `pokered`/`pokeyellow`, the 1997 `pokegold-spaceworld`
+demo, or the open-source **Crystal Legacy** at `github.com/cRz-Shadows/Pokemon_Crystal_Legacy`).
+**Decision: stay on Polished Crystal** — keep its quality-of-life and modern features as the
+engine/foundation, and **build a fresh, personalized story & content layer "from the ground up"
+on top of it.** The personalization is what makes it Shane's, not the base.
+
+> Approach note: "from the ground up" content means we mostly **repurpose/replace** existing PC
+> story, characters, and events with Shane-themed versions (which frees ROM space as we go),
+> rather than only piling new data onto an already-98.8%-full ROM.
 
 ---
 
@@ -34,14 +46,33 @@
 > Adding large new content (many trainers, lots of dialogue, new maps) will require freeing
 > space or it won't fit. Favor *edits/replacements* over *additions*; keep new text tight.
 
-## Phase 2 — Personalization (the gift) — DETAILS BELOW
-Implemented from the "Personalization Details" section as Shane provides them.
+## Project scope (2026-06-21) — TOTAL STORY CONVERSION
+Keep Polished Crystal's **engine, QOL, and modern features**. Rebuild the **entire content layer
+from the ground up**, personalized for Shane:
+- **Whole story rewritten** — new narrative, dialogue, characters, events, themes.
+- **Game flow redone** — progression/order, key story beats, gym/badge or equivalent structure,
+  pacing, where you go and why.
+- **All trainers redone** — every trainer party (Gym Leaders, Elite Four, rivals, route trainers,
+  bosses) re-tuned/re-themed; rosters, levels, items, AI as needed.
+- Personal touches woven throughout (rival = Justin, courier Dragonite, champion cameos, baseball
+  references, dedication, etc. — see details below).
+
+> This is a big, ongoing build. We do it **incrementally and track every piece in this doc**, so
+> the gift can ship in coherent milestones (intro + early game first, then outward).
+> **Still needed from Shane's family (you):** the high-level STORY concept/premise and the new
+> game flow (region order, who the key characters are, the central goal). Firehose welcome.
+
+## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
+Implemented from the "Personalization Details" section as details come in.
+- [ ] Story rewrite (narrative, key dialogue, events)
+- [ ] Game flow / progression redesign
+- [ ] All trainers re-themed & re-tuned
 - [ ] Branding / title
 - [ ] Intro speech
-- [ ] Default names
+- [ ] Default names (rival = Justin)
 - [ ] In-game personal messages / NPCs
 - [ ] Credits dedication
-- [ ] Any custom characters / events / Pokémon / teams
+- [ ] Custom characters / events / Pokémon (courier Dragonite, champion cameos)
 
 ## Phase 3 — Build, verify & deliver
 - [ ] Rebuild the personalized ROM cleanly (no errors)
