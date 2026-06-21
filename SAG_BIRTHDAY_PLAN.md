@@ -417,8 +417,10 @@ direction; water bodies are real; the southern college leg is a long journey sou
                           [ MEWTWO ISLAND ]   out at sea (unlocks after 8th badge)
 
    ── SOUTHERN LEG (Act II; reached by Amtrak/flight from Penn Station) ──
-   [ PHILADELPHIA / UPenn ] ——S——> [ ATLANTA / Emory ] ——S——> [ FLORIDA / IMG, Bradenton ]
-        (~SW of NYC)                  (deep south, warm)        (tropical coast)
+   [ PHILADELPHIA / UPenn ] ——S——> [ ATLANTA / Emory ] ——S——> [ FLORIDA ]
+        (~SW of NYC)                  (deep south, warm)         IMG/Bradenton (W coast)
+                                                                 + Hallandale Beach "The
+                                                                 Hemispheres" (SE coast, hoops)
 ```
 - **Water/surf routes:** Hudson River (W), East River (E), NY Harbor (S → Mewtwo Island), Long
   Island Sound (E). HM Surf/fishing gate the islands & coastlines.
@@ -443,6 +445,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
 | Philadelphia (UPenn) | historic city | Geodude, Rattata, Growlithe, Magnemite, urban mons |
 | Atlanta (Emory) | warm south | Growlithe/Vulpix, Bellsprout, Sunkern, Houndour, Stantler (woods) |
 | Florida (IMG, Bradenton) | tropical coast/swamp | Totodile-line (wild gators), Krabby, Exeggcute (palms), Slugma, Machop (athletes), beach water |
+| Hallandale Beach, FL ("The Hemispheres") | retiree resort / beachfront courts | Slowpoke (slow retirees), Psyduck, Hitmonchan/Hitmonlee (ballers), Exeggutor, Corsola, Chansey (the nurse/early-bird crowd) |
 
 > **Note:** Shane's favorites stay special: **Mankey** features around Randalls/Bronx (Fighting),
 > **Gastly/Haunter** in spooky night spots (Central Park at night, old buildings), **Eevee** stays
@@ -472,7 +475,10 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 11. **IMG Academy (Bradenton FL)** — GYM 11
 12. **Camp Pontiac (NY)** — GYM 12
 13. **Killington, VT** — GYM 13 *(Ice; skiing + the **Wobbly Barn** restaurant as the heal/après spot)*
-14–16. **TBD — need ~3 more locations** (ideas: a bar/nightlife district, a dispensary district,
+14. **Hallandale Beach, FL — "The Hemispheres" resort** — GYM 14 *(BASKETBALL-centric; an old-folks
+   retirement resort — retirees as ballers/trainers. Full-roast: pickup games, "back in my day,"
+   walkers, early-bird specials. Basketball/"sports" theme — likely Fighting or Normal.)*
+15–16. **TBD — need ~2 more locations** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
 
