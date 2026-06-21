@@ -195,6 +195,14 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
   (the New Bark / player's-house analog where the adventure begins).
 - **Upper East Side** — *early-childhood memories sprinkled here*; home of **The Town School**
   (Shane's UES school). Nostalgic early-game town/district.
+  - **★ Shane's past childhood homes (explorable, locked 2026-06-21):** make these enterable
+    apartments with nostalgic memory dialogue / Easter eggs:
+    - **245 E 58th St — apt 17A**
+    - **330 E 72nd St — floor 3**
+    - **525 E 72nd St — apt 44F**
+    Each = a small explorable interior with personal callbacks (old rooms, "this is where…"
+    memories, maybe a hidden item or photo). Cluster them around the UES district near the
+    Town School / John Jay Park.
 - **Randalls Island** — *baseball* fields (early-childhood baseball). → park/route w/ baseball NPCs.
 - **Hudson Yards** — Shane's **current home** & **THE STARTING POINT**: his **1-bedroom apt on the
   28th floor (apt C)**. Same building as his **brother**. **Jared** = neighbor in **apartment 11I,
