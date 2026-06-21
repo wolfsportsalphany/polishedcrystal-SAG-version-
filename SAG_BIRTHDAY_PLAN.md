@@ -71,12 +71,18 @@ in milestones.
 ### Scale (so we plan realistically)
 - **Dialogue:** thousands of text strings across `data/text/*.asm` + every `maps/*.asm` script.
 - **Characters:** all NPCs/trainers — names, personalities, sprites where it matters.
-- **Pokémon:** 391 species in PC. "Changed" can mean very different efforts — DECISION NEEDED:
-  - **(A) Rename + re-flavor:** new species names + new Pokédex entries, keep existing sprites.
-    Lightest; ships fastest; still feels new in dialogue/dex. *(Recommended starting point.)*
-  - **(B) Rename + re-type/re-stat:** also change types/stats/movesets (data-heavy, no new art).
-  - **(C) Full "fakemon":** new names AND new sprites/cries for all — massive art pipeline,
-    needs sourced/created assets; realistically a long-term stretch goal, not the birthday build.
+- **Pokémon — RESOLVED (2026-06-21):** keep the **same Pokédex** (all existing species, sprites,
+  cries, dex). "New Pokémon" means **re-cast which Pokémon appear situationally**:
+  - different **starters**, different **legendaries** (and their encounter events),
+  - re-chosen **wild encounter tables** per area,
+  - **every opponent's team** rebuilt (rivals, gym leaders, E4, route trainers, bosses).
+  - No species renames, no new sprites/fakemon. This keeps it light + ships on time.
+  - **CASTING RULE:** the Pokémon chosen must be **on-theme with the opponent's persona AND the
+    location.** Examples: baseball coach → hard-hitting Fighting/athletic mons; "Russian spy" →
+    sneaky Poison/Dark; Grandma Linda → sweet-but-tough Fairy/old-school mons; frat brother →
+    rowdy/"party" mons; gritty NYC streets → urban mons (Rattata, Grimer/Muk, Pidgey, Meowth);
+    Yankee Stadium → flashy heavy hitters. Starters & legendaries likewise picked to fit the
+    story beat where they're obtained.
 
 ### Method (how we churn through it without drowning)
 1. **Define the "bible" first:** the new world's theme, the renamed Pokémon list, and the cast of
@@ -105,8 +111,9 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 - **Upper East Side** — *early-childhood memories sprinkled here*; home of **The Town School**
   (Shane's UES school). Nostalgic early-game town/district.
 - **Randalls Island** — *baseball* fields (early-childhood baseball). → park/route w/ baseball NPCs.
-- **Hudson Yards** — Shane's **current home**, same building as his **brother**; Shane on **28th
-  floor, apt C**; **Jared** on **11I** (age 11?). → sleek modern city hub.
+- **Hudson Yards** — Shane's **current home** & **THE STARTING POINT**: his **1-bedroom apt on the
+  28th floor (apt C)**. Same building as his **brother**. **Jared** = neighbor in **apartment 11I,
+  floor 11**. → sleek modern city hub; the game opens here (New-Bark/player's-room analog).
 - **Williamsburg, Brooklyn** — younger sister **Cali** (at **Brooklyn Law School**).
 - **Central Synagogue (NYC)** — landmark; key building/event (bar-mitzvah-era memory?).
 - **Sidley Austin law firm (NYC)** + **John Altorelli** & **"the Russian spy" he dated** —
@@ -148,15 +155,62 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **John Altorelli** | Law-internship character | Sidley Austin, NYC |
 | "The Russian spy" | Quirky law-internship NPC (he dated) | Sidley Austin, NYC |
 
-### Open questions to lock (for gym/flow design)
-- **16 Gym Leaders:** who/what is each gym? (Draft idea: cast real people + venues — e.g., Yankee
-  Stadium/MSG/Barclays/IMG as themed gyms, uncles/relatives as leaders.) **Need your picks.**
-- **Start point & arc:** begin in **West Village** (mom/dad) per above? Journey order through the
-  16 gyms across NYC → suburbs → Philly → Atlanta → FL?
-- **Tone:** how spicy do "underage bars" / law-internship / Russian-spy bits get? (Keep it a
-  fun roast, or PG?)
-- **Jared:** age 11, or apartment 11I, or both? Relationship to Shane?
-- **Pokémon rename scope:** still (A) rename+flavor / (B) +retype/stat / (C) full fakemon art.
+### Locked decisions (2026-06-21)
+- **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
+- **Tone:** **FULL ROAST** — lean into the underage bars, law-internship, Russian-spy, short-uncle
+  jokes, etc. Comedic and irreverent. (Still handle deceased grandparents respectfully.) ✅
+- **Jared:** neighbor in the same building, **apartment 11I, floor 11**. ✅
+- **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/opponent teams. ✅
+
+### Still open
+- **16 Gym Leaders & the ladder** — UNDER DISCUSSION (see draft below). Need: who leads each gym,
+  the Elite Four + Champion, and the final secret superboss (Red analog).
+
+## ★ 16-GYM LADDER — DRAFT FOR DISCUSSION (2026-06-21)
+Structure inherited from PC (so we re-skin, not re-engineer): **Gyms 1–8 → Elite Four + Champion
+(mid-game) → Gyms 9–16 → secret final superboss (Red analog).** Types are PC's existing gym types
+by default (changeable later); we swap in new leaders, teams, and all-new dialogue. Journey flows
+**Hudson Yards → NYC/boroughs → NJ/LI suburbs → (E4/Champ) → college & later-life arc → finale.**
+
+### Act I — NYC & suburbs (Gyms 1–8)
+| # | Location | Leader (draft) | PC type slot | Roast / hook |
+|---|----------|----------------|--------------|--------------|
+| 1 | Hudson Yards (his building) | **Jared** (neighbor, 11I) | Flying | pushover first gym, the weird neighbor |
+| 2 | The Town School (UES) | a **schoolteacher** | Bug | grade-school throwback |
+| 3 | West Village | **Mom** (or Dad) | Normal | the "you'll cry" mom gym |
+| 4 | Central Synagogue | a **rabbi/cantor** | Ghost | bar-mitzvah-era mysticism (respectful + funny) |
+| 5 | Randalls Island | **baseball coach** | Fighting | Shane's HS baseball; "swing for the fences" |
+| 6 | Williamsburg / Barclays | **Cali** (sister) | Steel | law-student sis, ice-cold prep |
+| 7 | Bronx / **Yankee Stadium** | a **Yankees legend** | Ice | the big-league stadium gym |
+| 8 | Paramus, NJ | **Uncle Donut** (short, Napoleon) | Dragon | tiny man, biggest ego, "prestige" 8th gym |
+
+### Mid-game — ELITE FOUR + CHAMPION (the family)
+- **E4 (draft):** Uncle **Matt** & Uncle **Jason** (twins — back-to-back mirror battle), **Grandma
+  Linda** (Paramus), **Dad**. Champion = **the Brother** (the gift-giver) — "beat your big bro."
+- *(All swappable — your call on who's E4 vs Champion.)*
+
+### Act II — College & later-life arc (Gyms 9–16)
+| # | Location | Leader (draft) | PC type slot | Roast / hook |
+|---|----------|----------------|--------------|--------------|
+| 9 | UPenn / **APES** frat (Philly) | a **frat brother** | Rock | beer, frat-house chaos |
+| 10 | Emory (Atlanta) | a **college friend** | Water | grad-school benders |
+| 11 | **IMG Academy** (Bradenton FL) | an **elite coach** | Electric | intense athletic boot camp |
+| 12 | a college crew spot | a **college girlfriend/friend** | Grass | the chill one |
+| 13 | Sidley Austin (NYC) | **"the Russian spy"** | Poison | she's literally a ninja/spy — perfect fit |
+| 14 | Sidley Austin (NYC) | **John Altorelli** | Psychic | mastermind lawyer boss |
+| 15 | **MSG** | a **showman/Knicks legend** | Fire | the Garden, lights, ego |
+| 16 | (final gym) | **Justin** (RIVAL) | Blue/mixed | rival runs the last gym, Napoleon complex |
+
+### Finale — secret superboss (Mt. Silver / "Red" analog)
+- Candidates: the **Brother** again as the hidden ultimate ("Red"), Shane's **future self**, or tie
+  it to the **courier Dragonite** event. **TBD with you.**
+
+### Discussion points for you
+- Confirm/adjust each **gym leader** above (esp. gyms 7, 9–12, 15).
+- Lock the **Elite Four** (4 people) + **Champion** (1).
+- Pick the **secret final boss**.
+- Want gym **types re-themed** to fit people (more work), or keep PC's types under new skins (faster)?
+- Camp Pontiac, Old Brookville, Riverdale, IMG, bars — which are **gyms** vs **story towns/routes**?
 
 ## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as details come in.
