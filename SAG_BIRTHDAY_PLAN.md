@@ -288,6 +288,41 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
   **types** (faster) vs re-theme. We'll lock this *after* the world/story takes shape.
 - **Justin (rival)** still recurs throughout as Shane's foil regardless of gym design.
 
+## ★ GAME PROGRESSION / STRUCTURE (locked 2026-06-21)
+1. **Gyms 1–8** — NYC & suburbs arc (start: Hudson Yards → Gym 1 Sidley Austin → …).
+2. **After 8th badge → MEWTWO ISLAND arc** — courier **Dragonite** arrives with Mewtwo's
+   invitation (battle + catch it), then the *First Movie* climax on Mewtwo Island. **This replaces
+   the usual mid-game Elite Four.** Catch Mewtwo; Mew becomes catchable after.
+3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
+4. **After 16th badge → ELITE FOUR** — the true endgame Elite Four (+ Champion / secret final boss,
+   cast TBD).
+
+## ★ ENDGAME ARC — MEWTWO ISLAND (*First Movie* climax; replaces mid-game E4)
+New location: **Mewtwo Island** ("New Island"), unlocked after the **8th badge** via the courier
+Dragonite's invitation. The arc **closely mirrors the plot & beats of *Pokémon: The First Movie***
+— invitation by Dragonite → chosen trainers summoned → stormy boat/crossing → island mansion →
+Mewtwo's reveal & monologue → clone reveal → trainer battles → the Armored Mewtwo confrontation →
+Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our world/roster).
+
+**Flow:**
+1. Beat **Gym 8** → **courier Dragonite** flies in with the invitation → **battle & catch the
+   Dragonite** (the one-off) → accept invite → travel to the island (stormy crossing, movie-style).
+2. **On the island:** invited-trainer arrivals, Mewtwo's mansion/lab, clone-machine intrigue —
+   re-create the movie's set pieces and tone.
+3. **Battle gauntlet — the player fights them ALL:**
+   - **Team Rocket** (the experiment's backers — grunts + a boss; Jessie/James/Meowth flavor).
+   - **Ash**, **Misty**, and **Brock** (anime cameos as trainers, themed teams).
+   - **Justin** — the **rival also got an invite** and is one of the chosen trainers on the island
+     (mirrors the movie's invited trainers). Battle him here too, in full Napoleon-complex form.
+4. **★ Armored Mewtwo (two-phase boss):**
+   - Phase 1: trainer battle vs **Armored Mewtwo** with the **mirror team** (clone of player's
+     party, +5 levels). Phase 2: armor shatters → **wild Mewtwo** → **catchable.**
+5. **Mew appears** and becomes **catchable after** the Mewtwo battle (movie's other legendary).
+6. Return to the mainland to continue toward **Gyms 9–16**.
+
+> Opponents to script here: Team Rocket (grunts + boss), Ash, Misty, Brock. Teams themed to each
+> (Ash = mixed ace incl. Pikachu; Misty = Water; Brock = Rock/Ground), tuned to post-8-badge level.
+
 ## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as details come in.
 - [ ] Story rewrite (narrative, key dialogue, events)
@@ -338,6 +373,9 @@ _(awaiting details)_
 **Shane's favorite: DRAGONITE — the "courier Dragonite" from Pokémon: The First Movie**
 - The Dragonite that delivers Mewtwo's invitation letter at the start of the first movie.
 - Goal: make **this specific Dragonite obtainable as a one-off (single, unique) encounter.**
+- **TRIGGER (locked):** after the player **defeats the 8th gym**, the **courier Dragonite arrives
+  with Mewtwo's invitation.** The Dragonite is then **battleable AND catchable** right there — the
+  one-off Dragonite. Accepting the invite launches the **Mewtwo Island** endgame arc.
 - **Ties into the ★ Armored Mewtwo storyline** (see Featured Pokémon) — the letter it delivers is
   Mewtwo's invitation; the two events form one cohesive *First Movie* arc.
 - Implementation ideas (TBD):
