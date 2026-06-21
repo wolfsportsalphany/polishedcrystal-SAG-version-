@@ -465,9 +465,11 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
    → route: **Central Park** (green path Gym 1 → Gym 2)
 2. **The Town School (UES, 76th & East End)** — GYM 2 *(LOCKED; leader **Ms. Sokotch**)*
-3. **TBD** — GYM 3 *(Central Park is now the route to Gym 2, not a gym)*
+   → after Gym 2: **John Jay Park** gauntlet (Steven, Jake, Justin)
+3. **Randalls Island** — GYM 3 *(LOCKED; BASEBALL — teammates from Uptown/CYO/Thunder/Gothams/
+   Riverdale/Titans; N&E of the Town School, an island)*
 4. **Barclays / Williamsburg (Brooklyn)** — GYM 4
-5. **Yankee Stadium (Bronx)** — GYM 5
+5. **Yankee Stadium (Bronx)** — GYM 5 *(re-theme: NOT baseball — Randalls is the baseball gym)*
 6. **Central Synagogue** — GYM 6
 7. **Paramus, NJ** — GYM 7
 8. **MSG (or Long Island)** — GYM 8
@@ -535,6 +537,20 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   Park** (real UES park, ~76th by the East River, right outside the school), Shane battles a
   gauntlet of **Steven**, **Jake**, and **Justin** (rival shows up again). Three back-to-back
   trainer battles in the park. *(Steven & Jake = new characters — friends/classmates; confirm.)*
+
+### #3 — RANDALLS ISLAND — GYM 3 (BASEBALL) — DRAFT
+- **Approach:** from **John Jay Park**, head **north & east to Randalls Island** (an island, across
+  the water — geographically correct: NE of the UES). Surf/bridge crossing to reach it.
+- **Theme (locked 2026-06-21):** **BASEBALL gym** on the ballfields. Shane's HS/youth baseball
+  showcase.
+- **Grunt trainers = people Shane actually played ball with**, grouped by his real teams/leagues:
+  **Uptown, CYO, the Thunder, the Gothams, Riverdale, the Titans.** (Use these as the trainer
+  classes/teams you fight across the fields — dugouts, bases, outfield as the gym "rooms.")
+- **Type:** likely **Fighting** (athletic hitters) — "swing for the fences." Confirm at type pass.
+- **Leader:** TBD (a coach? a standout teammate?). **Badge/reward:** TBD name.
+- *Note:* this makes **Randalls = the baseball gym**, so the earlier **Yankee Stadium** slot
+  (Gym 5 draft) should be re-themed to avoid duplication (e.g., a pro-sports/Flying "big leagues"
+  gym, or a non-baseball venue). Flagged.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
