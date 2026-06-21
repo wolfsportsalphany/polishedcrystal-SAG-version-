@@ -261,6 +261,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Roman** | **Gym 12 Leader** — old guy who runs the snack bar (secret boss) | The Hemispheres, Hallandale Beach FL |
 | **J.R. Murphy** | **Gym 13 Leader** — baseball (catcher); elite-academy boss | IMG Academy, Bradenton FL |
 | **Kenny** | **Gym 14 Leader** — Dad's friend; chairlift-spitting lore | Killington, VT (mountaintop) |
+| **Kenny & Ricky** | **Gym 15 co-Leaders** (double battle) — camp counselors *(Kenny overlap w/ Gym 14 — confirm)* | Camp Pontiac, Copake NY |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -520,7 +521,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 13. **IMG Academy (Bradenton FL)** — GYM 13 *(LOCKED; BASEBALL; leader **J.R. Murphy**; path across FL from Hallandale)*
 14. **Killington, VT** — GYM 14 *(LOCKED; Ice, gym ATOP the mountain; leader **Kenny** (Dad's friend);
    **Wobbly Barn** + a **Jamaican jerk** restaurant on the slopes; FLY from Florida)*
-15. **Camp Pontiac (NY)** — GYM 15
+15. **Camp Pontiac (Copake, NY)** — GYM 15 *(LOCKED; TWO leaders **Kenny & Ricky**; south from Killington)*
 16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
@@ -748,6 +749,17 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Leader (locked): KENNY** — **Dad's friend.** Running bit: Kenny reminisces about how he and
   Dad **used to spit on people from the chairlift.** Warm-but-degenerate old-buddy energy.
 - **Type / Badge:** TBD (Ice). Confirm at type pass.
+
+### #15 — CAMP PONTIAC (Copake, NY) — GYM 15 — DRAFT
+- **Route (locked 2026-06-21):** from **Killington, VT**, head **south to Camp Pontiac in Copake,
+  NY** (Hudson Valley / Columbia County — geographically correct, VT → just south into NY).
+- **Location:** summer **Camp Pontiac** — woods, lake, cabins, mess hall; campers/counselors as
+  grunt trainers; nostalgic-camp Bug/Grass/Water vibe.
+- **Leaders (locked): KENNY & RICKY** — **two gym leaders** (double-battle / tag-team gym, or
+  back-to-back). Camp-counselor / camp-director energy.
+- ⚠️ **NAME CHECK:** "Kenny" is also the **Gym 14 (Killington)** leader (Dad's friend). Confirm:
+  is this the **same Kenny** reappearing, or a **different camp Kenny**? (Logged as-is.)
+- **Type / Badge:** TBD (camp → Bug/Grass/Water). Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
