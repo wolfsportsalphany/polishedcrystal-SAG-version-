@@ -252,6 +252,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Steven** & **Jake** | Trainers in the John Jay Park gauntlet after Gym 2 (friends/classmates?) | John Jay Park, UES |
 | **Dominic A.A. Randolph** | **Gym 4 Leader** — British old guy, posh headmaster | Riverdale Country School, the Bronx |
 | **Aaron Judge** | **Gym 5 Leader** — pro baseball slugger, "the big leagues" | Yankee Stadium, the Bronx |
+| **Jesse** | **Gym 7 Leader** — sweet old Black woman, former family nanny (warm, not roast) | Old Brookville, Long Island |
+| **Giovanni** | **Gym 8 Leader** — Team Rocket boss; Montauk overrun w/ Rocket; bridges to Mewtwo Island | Montauk Lighthouse |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -473,21 +475,22 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 0. **Hudson Yards** — START hub (not a gym)
    → route: **Times Square**
 1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
-   → route: **Central Park** (green path Gym 1 → Gym 2)
+   → route: **Central Park** → **Central Synagogue** (LOCATION, between Central Park & the school) → Town School
 2. **The Town School (UES, 76th & East End)** — GYM 2 *(LOCKED; leader **Ms. Sokotch**)*
    → after Gym 2: **John Jay Park** gauntlet (Steven, Jake, Justin)
 3. **Randalls Island** — GYM 3 *(LOCKED; BASEBALL — teammates from Uptown/CYO/Thunder/Gothams/
    Riverdale/Titans; N&E of the Town School, an island)*
 4. **Riverdale Country School (the Bronx)** — GYM 4 *(LOCKED; leader **Dominic A.A. Randolph**, British old guy)*
-5. **Yankee Stadium (the Bronx)** — GYM 5 *(LOCKED; leader **Aaron Judge** — PRO baseball / "the
-   big leagues"; comes right after Riverdale, both in the Bronx)*
-6. **Chelsea Piers** — GYM 6 *(LOCKED; sports complex, just N of West Village where Mom & Dad live)*
+5. **Yankee Stadium (the Bronx)** — GYM 5 *(LOCKED; leader **Aaron Judge** — PRO baseball; after Riverdale)*
+   → **Chelsea Piers** (LOCATION, not a gym) + **West Village** (Mom & Dad), via Riverside greenway
    → route after West Village: **Canal Street → Brooklyn Bridge → Williamsburg**
-7. **Brooklyn Law School (Williamsburg)** — GYM 7 *(LOCKED; **Cali** here — beat the leader to get her)*
-8. **Central Synagogue _or_ Paramus, NJ** — GYM 8 *(pick one as the 8th/last Act-I gym; the other
-   → Act II)* — TBD
-   *(MSG, Long Island → Act II / story venues, not Act-I gyms)*
-   → **8th badge → courier Dragonite → MEWTWO ISLAND arc**
+6. **Brooklyn Law School (Williamsburg)** — GYM 6 *(LOCKED; **Cali** here — beat the leader to get her)*
+   → route: **Brooklyn → east onto Long Island**
+7. **Old Brookville (Long Island)** — GYM 7 *(LOCKED; leader **Jesse**, sweet old former nanny;
+   coexists with grandparents' memorial)*
+   → route: **continue east to the tip of Long Island**
+8. **Montauk Lighthouse** — GYM 8 *(LOCKED; LAST Act-I gym; leader **Giovanni** / Team Rocket boss — bridges to Mewtwo Island)*
+   → **after Gym 8: courier DRAGONITE arrives in MONTAUK (battle+catch) → sail to MEWTWO ISLAND arc**
 **ACT II — college & later-life (Gyms 9–16), then Elite Four:**
 9. **UPenn / APES frat (Philly)** — GYM 9
 10. **Emory (Atlanta)** — GYM 10
@@ -497,13 +500,15 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 14. **Hallandale Beach, FL — "The Hemispheres" resort** — GYM 14 *(BASKETBALL-centric; an old-folks
    retirement resort — retirees as ballers/trainers. Full-roast: pickup games, "back in my day,"
    walkers, early-bird specials. Basketball/"sports" theme — likely Fighting or Normal.)*
-15–16. **TBD — need ~2 more locations** (ideas: a bar/nightlife district, a dispensary district,
+15. **Paramus, NJ** — GYM 15 *(Grandma Linda + crazy uncles Matt/Jason/Donut nearby; mall suburbia)*
+16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
 
-> Non-gym story spots to thread between gyms: **West Village** (Mom & Dad), **Williamsburg** (Cali),
-> **Old Brookville** (memorial), **Riverside Park** greenway, **Randalls Island**, NYC **bars** &
-> **dispensaries**. **Joe's Pizza** + location-based Marts/Centers everywhere.
+> Non-gym story spots/LOCATIONS to thread between gyms: **Central Synagogue** (between Central Park
+> & Town School), **Chelsea Piers** (sports complex), **West Village** (Mom & Dad), **Riverside
+> Park** greenway, NYC **bars** & **dispensaries**, the UES **childhood homes**. **Joe's Pizza** +
+> location-based Marts/Centers everywhere.
 
 ### #0 — HUDSON YARDS (start hub) — DRAFT
 - **Map concept:** sleek glass high-rise + ground-level plaza/street (the real Hudson Yards "Vessel"
@@ -535,6 +540,12 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Team theme:** Altorelli = sharp corporate-lawyer mons; the spy GF + Russian goons = sneaky
   Poison/Dark "agent" mons. Full roast — billable hours, vodka jokes, "is colluding," etc.
 - **Badge/reward:** TBD name.
+
+### CENTRAL SYNAGOGUE — LOCATION (between Central Park & the Town School) — DRAFT
+- **Location (locked 2026-06-21):** a **LOCATION (not a gym)** on the **Upper East Side**, placed
+  on the path **between Central Park and the Town School**. Landmark synagogue building.
+- **Beat:** bar-mitzvah-era memory / heartfelt-but-funny scene; a rabbi/cantor NPC; maybe a small
+  blessing/gift or an Easter egg. Respectful + light.
 
 ### #2 — THE TOWN SCHOOL (Upper East Side, 76th & East End) — GYM 2 — DRAFT
 - **Approach (route):** from Gym 1, head **through Central Park** to reach the Upper East Side.
@@ -586,23 +597,16 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Type:** likely **Fighting** (power hitters) or a "big-league" Normal/Flying flavor. Confirm.
 - **Badge/reward:** TBD (a baseball-themed badge).
 
-### #6 — CHELSEA PIERS — GYM 6 — DRAFT
+### CHELSEA PIERS — LOCATION (NOT a gym, changed 2026-06-21)
 - **Location:** **Chelsea Piers** sports complex, Hudson River waterfront (west side), **just north
-  of the West Village**.
+  of the West Village**. Explorable hangout: golf range, **batting cages**, ice rink, gymnastics,
+  pools — flavor + possible mini-games (batting cages!), athlete NPCs. **No gym here.**
 - **Adjacent story town: WEST VILLAGE** — **Mom & Dad** live here (Shane's later childhood home).
-  Natural family story beat right by Gym 5 (visit the folks, get a gift/heal, parental roast).
+  Family story beat (visit the folks, gift/heal, parental roast).
 - **Route Chelsea Piers ↔ West Village = the West Side Highway / Riverside Park greenway** (the
-  long, narrow **4-tiles-wide** riverfront green path along the Hudson). This is the connecting
-  "route" between the gym and the West Village.
-- **Theme:** big multi-sport athletic complex (golf range, batting cages, ice rink, gymnastics,
-  pools); athletes/coaches as grunt trainers.
-- **Leader (locked 2026-06-21): BATTING-CAGE related** — a batting-cage instructor / cage king
-  (pitching-machine showdown vibe; "step into the cage"). Fits the baseball thread without
-  duplicating Judge (pro) or Randalls (youth ball) — this is the *training cages* angle.
-- **Type:** TBD (athletic → Fighting, or Steel for pitching machines). Confirm at type pass.
-- **Badge/reward:** TBD.
+  long, narrow **4-tiles-wide** riverfront green path along the Hudson).
 
-### #7 — BROOKLYN LAW SCHOOL (Williamsburg) — GYM 7 — DRAFT
+### #6 — BROOKLYN LAW SCHOOL (Williamsburg) — GYM 6 — DRAFT
 - **Route (locked 2026-06-21):** from **West Village**, take **Canal Street** → over the **Brooklyn
   Bridge** → into **Williamsburg, Brooklyn**. (Great set-piece route: Canal St market chaos, then
   the iconic bridge crossing into Brooklyn.)
@@ -615,6 +619,41 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   grunt trainers (gunner/1L roast energy).
 - **Leader / Type / Badge:** TBD (a dean/professor? law-themed; could be Psychic "know-it-all" or
   Normal). Confirm at type pass.
+
+### #7 — OLD BROOKVILLE (Long Island) — GYM 7 — DRAFT
+- **Route:** from **Williamsburg/Brooklyn**, head **east onto Long Island** to **Old Brookville**
+  (leafy Nassau County estates). Geographically correct (Brooklyn → LI east).
+- **Leader (locked 2026-06-21):** **Jesse** — an **old Black woman who used to be the family
+  nanny**, a **super sweet lady.** WARM tone (not roast) — affectionate, proud-of-you energy; a
+  gentle-but-surprisingly-tough gym. A heartfelt highlight.
+- **Coexists with:** the **maternal grandparents' remembered home** (they've passed) — keep this
+  tender/respectful; Old Brookville is the warm, emotional town of the early game.
+- **Map concept:** big LI estate / the old family house & grounds; kindly household staff &
+  neighbors as grunt trainers.
+- **Type / Badge:** TBD (warm but tough — maybe Normal/Fairy). Confirm at type pass.
+- **★ STORY BRIDGE (locked 2026-06-21):** after Shane beats her, **Jesse gives him the news that
+  Montauk is overrun with Team Rocket and sends him there** (east to the tip of LI) → leads into
+  Gym 8 / the Rocket takeover.
+
+### #8 — MONTAUK LIGHTHOUSE — GYM 8 (LAST Act-I gym) — DRAFT
+- **Location:** a **lighthouse in Montauk** — the far **eastern tip of Long Island** (ocean's
+  edge). Iconic. Could re-skin PC's existing **Olivine Lighthouse** map (multi-floor climb).
+- **Position in flow:** continues east on Long Island past Old Brookville to the very tip. **This
+  is the 8th gym.**
+- **★ MONTAUK IS OVERRUN WITH TEAM ROCKET (locked 2026-06-21):** the whole town/lighthouse is a
+  **Team Rocket takeover** — Rocket grunts everywhere as the trainers (storm the town, fight up the
+  lighthouse). Big set-piece "liberate Montauk" beat, like a Rocket-HQ raid.
+- **Leader: GIOVANNI** — the **Team Rocket boss**, fought at the **top of the lighthouse** as the
+  Gym 8 leader. **Perfect bridge:** beating Giovanni leads straight into **Mewtwo Island**, where
+  **Team Rocket** is behind the Mewtwo experiment (Giovanni can flee/foreshadow toward the island).
+  **Type:** Ground/Rocket (canon-ish). Badge TBD.
+- **★ AFTER GYM 8 (locked 2026-06-21): the courier DRAGONITE arrives in MONTAUK** with Mewtwo's
+  invitation (battle + catch it) → **sail from Montauk's ocean tip out to MEWTWO ISLAND** → the
+  *First Movie* arc. (Montauk = the literal jumping-off point to the island. Perfect.)
+
+> ✅ **GYM COUNT RESOLVED:** Act I = exactly **8** (Sidley, Town School, Randalls, Riverdale,
+> Yankee, Brooklyn Law, Old Brookville, Montauk). Act-II candidates (UPenn, Emory, IMG, Camp
+> Pontiac, Killington, Hallandale, Central Synagogue, Paramus) = **8** → fits 9–16 cleanly.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
@@ -682,9 +721,10 @@ _(awaiting details)_
 **Shane's favorite: DRAGONITE — the "courier Dragonite" from Pokémon: The First Movie**
 - The Dragonite that delivers Mewtwo's invitation letter at the start of the first movie.
 - Goal: make **this specific Dragonite obtainable as a one-off (single, unique) encounter.**
-- **TRIGGER (locked):** after the player **defeats the 8th gym**, the **courier Dragonite arrives
-  with Mewtwo's invitation.** The Dragonite is then **battleable AND catchable** right there — the
-  one-off Dragonite. Accepting the invite launches the **Mewtwo Island** endgame arc.
+- **TRIGGER (locked):** after the player **defeats Gym 8 (Montauk Lighthouse)**, the **courier
+  Dragonite arrives in MONTAUK with Mewtwo's invitation.** The Dragonite is then **battleable AND
+  catchable** right there — the one-off Dragonite. Accepting the invite → **sail from Montauk's
+  ocean tip to MEWTWO ISLAND** (the endgame arc).
 - **Ties into the ★ Armored Mewtwo storyline** (see Featured Pokémon) — the letter it delivers is
   Mewtwo's invitation; the two events form one cohesive *First Movie* arc.
 - Implementation ideas (TBD):
