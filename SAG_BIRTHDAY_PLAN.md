@@ -191,6 +191,8 @@ The concrete first slice of the game (Act I start):
    - **Justin's starter = an Eevee too**, and he sneers that **Jared was wrong — "it's actually
      not that rare."** (Rival-mirror battle: Eevee vs Eevee. Justin's Eevee is NPC-owned, so it
      doesn't break "Shane's is the only *obtainable* Eevee.")
+   - Justin also snipes that **that kind of stupidity is exactly why Jared didn't get invited to
+     his wedding.** (More rival roast fuel.)
 7. **FIRST GYM = Sidley Austin law firm (Midtown)** — a **MULTI-STORY gym** (navigate floors of the
    office building, like an elevator/floor-puzzle gym). Set in Shane's corporate law firm.
    Leader likely **John Altorelli**; ties into the law-internship / "Russian spy" subplot.
