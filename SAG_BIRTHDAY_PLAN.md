@@ -372,15 +372,20 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
    cast TBD).
 
 ## ★ ENDGAME ARC — MEWTWO ISLAND (*First Movie* climax; replaces mid-game E4)
-New location: **Mewtwo Island** ("New Island"), unlocked after the **8th badge** via the courier
-Dragonite's invitation. The arc **closely mirrors the plot & beats of *Pokémon: The First Movie***
+New location: **Mewtwo Island** ("New Island"), sitting **far off the eastern coast of Long Island**
+in the open Atlantic — reached by **surfing east from Montauk through a movie-accurate hurricane**
+(unlocked after the 8th badge via the courier Dragonite's invitation). The arc **closely mirrors
+the plot & beats of *Pokémon: The First Movie***
 — invitation by Dragonite → chosen trainers summoned → stormy boat/crossing → island mansion →
 Mewtwo's reveal & monologue → clone reveal → trainer battles → the Armored Mewtwo confrontation →
 Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our world/roster).
 
 **Flow:**
-1. Beat **Gym 8** → **courier Dragonite** flies in with the invitation → **battle & catch the
-   Dragonite** (the one-off) → accept invite → travel to the island (stormy crossing, movie-style).
+1. Beat **Gym 8 (Montauk)** → **courier Dragonite** flies into Montauk with the invitation →
+   **battle & catch the Dragonite** (the one-off) → accept invite → **SURF EAST from Montauk
+   through a movie-accurate HURRICANE** to **Mewtwo Island**, which sits **far off the eastern
+   coast of Long Island** in the open Atlantic. (Recreate the First Movie's violent storm crossing
+   — huge waves, lightning; a dramatic, perilous surf to the island.)
 2. **On the island:** invited-trainer arrivals, Mewtwo's mansion/lab, clone-machine intrigue —
    re-create the movie's set pieces and tone.
 3. **Battle gauntlet — the player fights them ALL:**
@@ -436,8 +441,9 @@ direction; water bodies are real; the southern college leg is a long journey sou
                                                                  + Hallandale Beach "The
                                                                  Hemispheres" (SE coast, hoops)
 ```
-- **Water/surf routes:** Hudson River (W), East River (E), NY Harbor (S → Mewtwo Island), Long
-  Island Sound (E). HM Surf/fishing gate the islands & coastlines.
+- **Water/surf routes:** Hudson River (W), East River (E), NY Harbor (S), Long Island Sound (E).
+  **Mewtwo Island = far EAST of Montauk** in the open Atlantic (surf there through a hurricane after
+  Gym 8). HM Surf/fishing gate the islands & coastlines.
 - **North spine:** Manhattan → Bronx → Hudson Valley (Camp Pontiac) → Killington, VT (coldest/
   northernmost). Temperature/biome shifts colder as you go north (snow at Killington).
 - **Southern leg** is intentionally far (real distance) — handled as an Act-II travel hop, not a
