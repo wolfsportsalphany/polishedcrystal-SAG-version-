@@ -345,8 +345,8 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 
 ### Recurring citywide establishments (re-skinned, LOCATION-DEPENDENT)
 - **PokéMart → real chains, varying by location:** **CVS, Rite-Aid, Duane Reade, Walmart, Target,
-  bodegas**, etc. Pick whatever fits each neighborhood (get creative — a posh UES pharmacy vs a
-  gritty corner bodega vs a suburban Target/Walmart). Same Mart function, many storefronts.
+  bodegas**, and **Wawa in Philadelphia**. Pick whatever fits each neighborhood (posh UES pharmacy
+  vs gritty bodega vs suburban Target vs Philly Wawa). Same Mart function, many storefronts.
 - **Pokémon Center → real heal spots, varying by location too:** e.g., **CityMD / urgent care,
   hospitals (NYU Langone, Mount Sinai), a spa, a vet clinic** — location-appropriate. Same "heal
   your team" function, different skins per area.
@@ -507,7 +507,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 9. **Paramus, NJ** — GYM 9 *(LOCKED; leader **Grandma Linda**, goons = uncles **Matt/Jason/Donut**,
    whole town knows them; reached via **West Side Hwy → GW Bridge → Fort Lee → Paramus**;
    **Fort Lee** LOCATION has **Hiram's** hot dogs & **Dong Bang** Korean BBQ)*
-10. **UPenn / APES frat (Philly)** — GYM 10
+10. **UPenn / APES frat house "4K" (Philly)** — GYM 10 *(LOCKED; 3-story frat-house gym; leader **The Shermfather**; from Paramus south to Philly)*
 11. **Emory (Atlanta)** — GYM 11
 12. **IMG Academy (Bradenton FL)** — GYM 12
 13. **Camp Pontiac (NY)** — GYM 13
@@ -684,6 +684,19 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   - **Tone:** affectionate full-roast family chaos (mall suburbia, "eat something," uncle antics,
     Donut's Napoleon-complex bit echoing Justin).
   - **Type / Badge:** TBD (Grandma → Fairy/Normal? uncles → mixed). Confirm at type pass.
+
+### #10 — UPENN / APES FRAT HOUSE "4K" (Philadelphia) — GYM 10 — DRAFT
+- **Route:** from **Paramus, NJ**, head **south to Philadelphia** (UPenn) — the start of the
+  college leg.
+- **Location (locked 2026-06-21):** the **APES frat house**, a **3-story** building nicknamed
+  **"4K"** — a **multi-story gym** (climb the frat house floor by floor: basement/party floor,
+  bedrooms, rooftop).
+- **Leader (locked): "The Shermfather"** — frat-boss gym leader (Godfather-meets-frat energy).
+- **Theme:** beer-soaked frat chaos — pledges/brothers as grunt trainers, beer-pong tables, solo
+  cups, "is this a darty?" Full roast.
+- **Type / Badge:** TBD (Poison "party/keg" flavor fits, or Fighting). Confirm at type pass.
+- **★ WAWA (locked 2026-06-21):** put a **Wawa** in Philly as the local PokéMart re-skin (the
+  iconic Philly convenience store — hoagies, late-night runs). Flavor NPCs + Mart function.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
