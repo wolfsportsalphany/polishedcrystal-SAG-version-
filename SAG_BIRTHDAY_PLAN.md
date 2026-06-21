@@ -322,7 +322,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 | **Upper East Side** | posh; **The Town School** | childhood friends, teachers | grade-school throwback; earliest memories |
 | **Randalls Island** | real explorable ballfields/park island | baseball teammates/coach | Shane's HS baseball; a "big game" event; fishing off the water |
 | **Central Park** | big iconic green expanse | joggers, dog-walkers, chess hustlers | major hub park — wild encounters, trainers, hidden items |
-| **Riverside Park** (West Side Hwy) | LONG, NARROW greenway | runners, bikers | a super-long **4-tiles-wide** scenic green path/route hugging the river |
+| **Riverside Park / West Side Hwy greenway** | LONG, NARROW riverfront greenway | runners, bikers | super-long **4-tiles-wide** green path along the Hudson; **connects Chelsea Piers (Gym 5) ↔ West Village** |
 | **Central Synagogue** | landmark | rabbi/cantor | bar-mitzvah-era memory (respectful + funny) |
 | **Williamsburg, Bklyn** | hipster law-student life | **Cali** (sister, Brooklyn Law) | visit lil sis; she ribs Shane |
 | **Bronx** | stadium district | Yankees fans | **Yankee Stadium** landmark/event |
@@ -478,8 +478,8 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 3. **Randalls Island** — GYM 3 *(LOCKED; BASEBALL — teammates from Uptown/CYO/Thunder/Gothams/
    Riverdale/Titans; N&E of the Town School, an island)*
 4. **Riverdale Country School (the Bronx)** — GYM 4 *(LOCKED; leader **Dominic A.A. Randolph**, British old guy)*
-5. **Yankee Stadium (Bronx)** — GYM 5 *(re-theme: NOT baseball — Randalls is the baseball gym)*
-   *(Barclays / Williamsburg (Brooklyn) — moved later / south leg, was Gym 4)*
+5. **Chelsea Piers** — GYM 5 *(LOCKED; sports complex, just N of West Village where Mom & Dad live)*
+   *(freed up: **Yankee Stadium** & **Barclays/Williamsburg** — re-slot later / south of here)*
 6. **Central Synagogue** — GYM 6
 7. **Paramus, NJ** — GYM 7
 8. **MSG (or Long Island)** — GYM 8
@@ -572,6 +572,20 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Type:** TBD (another school gym — differentiate from Gym 2: maybe Psychic/Normal "old-money
   academia," or Steel "stiff upper lip"). Confirm at type pass.
 - **Badge/reward:** TBD name.
+
+### #5 — CHELSEA PIERS — GYM 5 — DRAFT
+- **Location:** **Chelsea Piers** sports complex, Hudson River waterfront (west side), **just north
+  of the West Village**.
+- **Adjacent story town: WEST VILLAGE** — **Mom & Dad** live here (Shane's later childhood home).
+  Natural family story beat right by Gym 5 (visit the folks, get a gift/heal, parental roast).
+- **Route Chelsea Piers ↔ West Village = the West Side Highway / Riverside Park greenway** (the
+  long, narrow **4-tiles-wide** riverfront green path along the Hudson). This is the connecting
+  "route" between the gym and the West Village.
+- **Theme:** big multi-sport athletic complex (golf range, batting cages, ice rink, gymnastics,
+  pools) — an all-around **sports/athletics gym**; athletes/coaches as grunt trainers.
+- **Type:** TBD (athletic → Fighting, or mixed-sport). Confirm at type pass.
+- **Leader / Badge:** TBD.
+- *Note:* Gym 5 is now Chelsea Piers, so **Yankee Stadium** is freed up — re-slot or drop it.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
