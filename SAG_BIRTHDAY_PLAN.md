@@ -73,7 +73,19 @@ _(awaiting details)_
 _(awaiting details)_
 
 ### Custom Pokémon / movesets / teams
-_(awaiting details)_
+
+**Shane's favorite: DRAGONITE — the "courier Dragonite" from Pokémon: The First Movie**
+- The Dragonite that delivers Mewtwo's invitation letter at the start of the first movie.
+- Goal: make **this specific Dragonite obtainable as a one-off (single, unique) encounter.**
+- Implementation ideas (TBD):
+  - A static/scripted one-time encounter (like the legendary/roaming static battles), not a
+    wild-grass repeatable spawn — so it's a "deliver-the-letter" themed event.
+  - Themed presentation: it arrives carrying a letter (tie the encounter script to a mail/letter
+    item or a short cutscene), then can be caught/given.
+  - Possibly give it a fitting moveset/level and maybe a held Mail item as a nod to the movie.
+  - Location: TBD (somewhere meaningful / discoverable).
+- Files (to locate during impl): static encounter / special wild battle scripts, a map script for
+  the event, Dragonite species data, mail/item data if we include the letter.
 
 ### Inside jokes / references / personal touches
 _(awaiting details)_
@@ -81,8 +93,22 @@ _(awaiting details)_
 ### Credits / dedication message
 _(awaiting details)_
 
-### Misc / unsorted
-_(awaiting details)_
+### Regions — add Hoenn & Sinnoh (on top of Kanto + Johto)  ⚠️ MAJOR SCOPE
+- Want: full **Hoenn** and **Sinnoh** regions added as an expansion on top of the existing
+  Kanto + Johto world.
+- **Reality check:** this is by far the biggest item — each region = dozens of maps, new
+  tilesets/graphics, wild encounter tables, NPC/event scripts, warps, town map data, story
+  hooks, music, etc. A full faithful Hoenn+Sinnoh is hundreds of hours and would dwarf the rest
+  of the gift. Worth scoping deliberately so the birthday build actually ships.
+- **Options to choose from (pick scope):**
+  1. **Teaser/MVP:** add 1–2 iconic locations per region (e.g., a Hoenn route + town, a Sinnoh
+     route + town) reachable via a new portal/ferry — proves the expansion, ships on time.
+  2. **Partial region:** one full region's early-game arc (e.g., Hoenn start area) now, expand later.
+  3. **Full both regions:** treat as a long-term ongoing project beyond the birthday deadline.
+- Pragmatic approach regardless: add a connection point (ferry/portal) from the existing world,
+  then build region maps incrementally. New maps need: `maps/*.asm` + map header registration,
+  `data/maps/`, tileset/blockset gfx, encounter data, town map updates.
+- **DECISION NEEDED from you:** which scope above (1/2/3)? (Defaulting to teaser/MVP unless told.)
 
 ---
 
