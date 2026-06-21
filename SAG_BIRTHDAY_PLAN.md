@@ -261,7 +261,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Roman** | **Gym 12 Leader** — old guy who runs the snack bar (secret boss) | The Hemispheres, Hallandale Beach FL |
 | **J.R. Murphy** | **Gym 13 Leader** — baseball (catcher); elite-academy boss | IMG Academy, Bradenton FL |
 | **Kenny** | **Gym 14 Leader** — Dad's friend; chairlift-spitting lore | Killington, VT (mountaintop) |
-| **Kenny & Ricky** | **Gym 15 co-Leaders** (double battle) — camp counselors *(Kenny overlap w/ Gym 14 — confirm)* | Camp Pontiac, Copake NY |
+| **Kenny & Ricky** | **Gym 15 co-Leaders** (twin double battle) — old twin doctors who own the camp; glasses + white hair *(distinct from Gym-14 Kenny)* | Camp Pontiac, Copake NY |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -755,10 +755,11 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   NY** (Hudson Valley / Columbia County — geographically correct, VT → just south into NY).
 - **Location:** summer **Camp Pontiac** — woods, lake, cabins, mess hall; campers/counselors as
   grunt trainers; nostalgic-camp Bug/Grass/Water vibe.
-- **Leaders (locked): KENNY & RICKY** — **two gym leaders** (double-battle / tag-team gym, or
-  back-to-back). Camp-counselor / camp-director energy.
-- ⚠️ **NAME CHECK:** "Kenny" is also the **Gym 14 (Killington)** leader (Dad's friend). Confirm:
-  is this the **same Kenny** reappearing, or a **different camp Kenny**? (Logged as-is.)
+- **Leaders (locked): KENNY & RICKY** — **old TWIN doctors who OWN the camp**; both have **glasses
+  and white hair.** Two gym leaders → **twin double-battle / tag-team** gym (matching twin sprites).
+  Eccentric old-doctor-camp-owner energy.
+- **Note:** this **camp Kenny (twin doctor)** is distinct from the **Killington Kenny (Dad's
+  friend)** — same first name, different characters. (Flagging in case you want to rename one.)
 - **Type / Badge:** TBD (camp → Bug/Grass/Water). Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
