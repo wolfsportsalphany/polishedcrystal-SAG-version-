@@ -242,6 +242,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **"The Russian spy"** (Altorelli's GF) | Back together w/ Altorelli; co-runs Gym 1; Russian goons | Sidley Austin, NYC |
 | **Ms. Sokotch** | **Gym 2 Leader** — glasses, mean & ugly, terrifying schoolteacher | The Town School, UES (76th & East End) |
 | **Steven** & **Jake** | Trainers in the John Jay Park gauntlet after Gym 2 (friends/classmates?) | John Jay Park, UES |
+| **Dominic A.A. Randolph** | **Gym 4 Leader** — British old guy, posh headmaster | Riverdale Country School, the Bronx |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -468,8 +469,9 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
    → after Gym 2: **John Jay Park** gauntlet (Steven, Jake, Justin)
 3. **Randalls Island** — GYM 3 *(LOCKED; BASEBALL — teammates from Uptown/CYO/Thunder/Gothams/
    Riverdale/Titans; N&E of the Town School, an island)*
-4. **Barclays / Williamsburg (Brooklyn)** — GYM 4
+4. **Riverdale Country School (the Bronx)** — GYM 4 *(LOCKED; leader **Dominic A.A. Randolph**, British old guy)*
 5. **Yankee Stadium (Bronx)** — GYM 5 *(re-theme: NOT baseball — Randalls is the baseball gym)*
+   *(Barclays / Williamsburg (Brooklyn) — moved later / south leg, was Gym 4)*
 6. **Central Synagogue** — GYM 6
 7. **Paramus, NJ** — GYM 7
 8. **MSG (or Long Island)** — GYM 8
@@ -551,6 +553,17 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - *Note:* this makes **Randalls = the baseball gym**, so the earlier **Yankee Stadium** slot
   (Gym 5 draft) should be re-themed to avoid duplication (e.g., a pro-sports/Flying "big leagues"
   gym, or a non-baseball venue). Flagged.
+
+### #4 — RIVERDALE COUNTRY SCHOOL — GYM 4 — DRAFT
+- **Location:** **Riverdale Country School** (NW **Bronx**, north of Randalls/Manhattan — fits the
+  north spine). Reached heading north from Randalls Island.
+- **Leader (locked 2026-06-21):** **Dominic A.A. Randolph** — a **British old guy** (the posh,
+  proper headmaster). Dry wit, refined-roast energy.
+- **Map concept:** elite prep-school campus — quad, classrooms, headmaster's study; faculty &
+  prep-school students as grunt trainers (contrast to Town School's vibe).
+- **Type:** TBD (another school gym — differentiate from Gym 2: maybe Psychic/Normal "old-money
+  academia," or Steel "stiff upper lip"). Confirm at type pass.
+- **Badge/reward:** TBD name.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
