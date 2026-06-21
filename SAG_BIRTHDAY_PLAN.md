@@ -62,6 +62,37 @@ from the ground up**, personalized for Shane:
 > **Still needed from Shane's family (you):** the high-level STORY concept/premise and the new
 > game flow (region order, who the key characters are, the central goal). Firehose welcome.
 
+## ★ MASTER DIRECTIVE (2026-06-21): make it feel COMPLETELY NEW
+Change **every piece of dialogue, every character, and every Pokémon** so nothing reads as stock
+Polished Crystal. This is the largest possible content scope — effectively a full reskin + rewrite
+on top of PC's engine. It's very doable but it's a marathon, so we work systematically and bank it
+in milestones.
+
+### Scale (so we plan realistically)
+- **Dialogue:** thousands of text strings across `data/text/*.asm` + every `maps/*.asm` script.
+- **Characters:** all NPCs/trainers — names, personalities, sprites where it matters.
+- **Pokémon:** 391 species in PC. "Changed" can mean very different efforts — DECISION NEEDED:
+  - **(A) Rename + re-flavor:** new species names + new Pokédex entries, keep existing sprites.
+    Lightest; ships fastest; still feels new in dialogue/dex. *(Recommended starting point.)*
+  - **(B) Rename + re-type/re-stat:** also change types/stats/movesets (data-heavy, no new art).
+  - **(C) Full "fakemon":** new names AND new sprites/cries for all — massive art pipeline,
+    needs sourced/created assets; realistically a long-term stretch goal, not the birthday build.
+
+### Method (how we churn through it without drowning)
+1. **Define the "bible" first:** the new world's theme, the renamed Pokémon list, and the cast of
+   characters. Everything else references this for consistency. (Lives in this doc.)
+2. **Work region-by-region, file-by-file:** rewrite text + scripts in batches, committing often.
+3. **Trainers re-themed as we pass through each area** (ties into dialogue).
+4. **Track coverage** with a checklist of text files / maps so we know what's done vs remaining.
+5. Rebuild frequently to catch breakage early (text macros, character limits, name lengths).
+
+### Coverage tracker (filled in as we go)
+- [ ] World/theme "bible" written
+- [ ] Pokémon rename list (species → new names)  — scope = (A/B/C) TBD
+- [ ] Character/cast list
+- [ ] Intro & New Bark / starting town
+- [ ] (further areas added as we reach them)
+
 ## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as details come in.
 - [ ] Story rewrite (narrative, key dialogue, events)
@@ -147,12 +178,24 @@ _(awaiting details)_
 ### Credits / dedication message
 _(awaiting details)_
 
-### Regions — Hoenn & Sinnoh  ❌ DESCOPED (2026-06-21)
-- **Decision:** NOT building two new regions. Too large to ship as a gift, and not the point.
-- **New focus instead:** deeply personalize the **story, dialogue, options, and characters**
-  within the existing Kanto + Johto world, and **add on small content where we can**.
-- Cross-region characters (Cynthia/Wallace/Steven, etc.) stay in as **cameos / special battles
-  inside the existing world** (e.g., post-game or themed events) — no new region required.
+### World structure — ONE big unified region, 16 Gym Leaders (2026-06-21)
+- **Want:** axe the separate Johto/Kanto identity and present **one big continuous region** with a
+  single **16-gym** progression.
+- **Why it fits:** Polished Crystal already has **16 badges** (8 Johto + 8 Kanto) and the engine
+  supports that whole progression — so we reuse the 16-gym backbone and re-theme it as one region.
+- **Keep the FULL area:** retain the entire landmass of both Johto **and** Kanto (all existing
+  maps/routes/towns stay) — we want that big explorable world. We're not shrinking it, just
+  unifying it. ~2 regions' worth of area = one large region.
+- **Pragmatic build (feasible for the gift):** keep the existing map *geometry/connections* but
+  **re-skin and re-narrate** them into one cohesive new region — new region name, new town/route
+  names, unified town map narrative, one continuous journey across all 16 gyms, no "fly to Kanto"
+  region break in the story. Re-theme the 16 Gym Leaders into our new cast.
+- **Heavy/stretch version:** draw brand-new map layouts + custom tilesets from scratch (huge art
+  task). Default to re-skin-and-reflow unless we decide to invest in new geometry.
+- Cross-region champions (Cynthia/Wallace/Steven, etc.) → fold into the new cast as Gym Leaders,
+  Elite Four, or special battles within the one region.
+
+### Hoenn & Sinnoh new regions ❌ DESCOPED — superseded by the single unified region above.
 
 ---
 
