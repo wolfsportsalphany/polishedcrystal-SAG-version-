@@ -260,7 +260,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Madi** (+ **Brielle**) | **Gym 11 Leader** — blonde ex-classmate (Brielle alongside) | Emory Law, Atlanta |
 | **Roman** | **Gym 12 Leader** — old guy who runs the snack bar (secret boss) | The Hemispheres, Hallandale Beach FL |
 | **J.R. Murphy** | **Gym 13 Leader** — baseball (catcher); elite-academy boss | IMG Academy, Bradenton FL |
-| **Kenny** | **Gym 14 Leader** — Dad's friend; chairlift-spitting lore | Killington, VT (mountaintop) |
+| **Professor Oak** | **Gym 14 Leader** — researching an undiscovered legendary | Killington, VT (mountaintop) |
+| **Kenny** | Killington **slope NPC** — Dad's friend; chairlift-spitting lore | Killington, VT |
 | **Kenny & Ricky** | **Gym 15 co-Leaders** (twin double battle) — old twin doctors who own the camp; glasses + white hair *(distinct from Gym-14 Kenny)* | Camp Pontiac, Copake NY |
 
 ### Locked decisions (2026-06-21)
@@ -519,8 +520,9 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 12. **Hallandale Beach, FL — "The Hemispheres"** — GYM 12 *(LOCKED; BASKETBALL old-folks resort;
    leader **Roman** (old guy who runs the snack bar); FLY from Atlanta)*
 13. **IMG Academy (Bradenton FL)** — GYM 13 *(LOCKED; BASEBALL; leader **J.R. Murphy**; path across FL from Hallandale)*
-14. **Killington, VT** — GYM 14 *(LOCKED; Ice, gym ATOP the mountain; leader **Kenny** (Dad's friend);
-   **Wobbly Barn** + a **Jamaican jerk** restaurant on the slopes; FLY from Florida)*
+14. **Killington, VT** — GYM 14 *(LOCKED; Ice, gym ATOP the mountain; leader **Professor Oak**
+   (researching an undiscovered legendary); Kenny=slope NPC; **Wobbly Barn** + **Jamaican jerk**
+   on the slopes; FLY from Florida)*
 15. **Camp Pontiac (Copake, NY)** — GYM 15 *(LOCKED; TWO leaders **Kenny & Ricky**; south from Killington)*
 16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
@@ -746,9 +748,13 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   mountain.** Skiers/snowboarders as grunt trainers; Ice theme.
 - **On-slope LOCATIONS:** the **Wobbly Barn** (heal/après-ski spot) and a **Jamaican jerk
   restaurant** on the slopes (food spot, flavor NPCs — jerk-chicken-in-the-snow gag).
-- **Leader (locked): KENNY** — **Dad's friend.** Running bit: Kenny reminisces about how he and
-  Dad **used to spit on people from the chairlift.** Warm-but-degenerate old-buddy energy.
-- **Type / Badge:** TBD (Ice). Confirm at type pass.
+- **Leader (CHANGED 2026-06-21): PROFESSOR OAK** — he's up on the mountain **conducting research
+  on an UNDISCOVERED LEGENDARY** (a snow/ice legendary he's tracking). Oak as a gym leader is a fun
+  twist; tie his battle/research to the mystery legendary (sightings, a research-lab room at the
+  summit, an encounter/discovery event). Fits the "legendaries on second-half leaders" rule.
+- **Kenny (Dad's friend)** — keep him as a **slope NPC** here (the chairlift-spitting-on-people
+  bit) rather than the leader. (This also de-duplicates Kenny vs the Camp Pontiac Kenny.)
+- **Type / Badge:** TBD (Ice; Oak's team incl. the legendary?). Confirm at type pass.
 
 ### #15 — CAMP PONTIAC (Copake, NY) — GYM 15 — DRAFT
 - **Route (locked 2026-06-21):** from **Killington, VT**, head **south to Camp Pontiac in Copake,
