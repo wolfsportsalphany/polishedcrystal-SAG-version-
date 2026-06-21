@@ -93,6 +93,24 @@ in milestones.
     - **Haunter — SPECIFICALLY Haunter, not Gengar.** Shane loves Haunter itself; feature Haunter
       prominently (ace/ally/opponent), but **stop at Haunter** — don't push the Gengar evolution
       (Haunter is the star, the "perfect form" here).
+  - **LEGENDARIES — downplay overall (Shane isn't a legendary guy), with ONE big exception:**
+    - **MEWTWO is his favorite by far → the marquee legendary.** Minimize/cut other legendary
+      events; concentrate the legendary content into Mewtwo.
+    - **★ ARMORED MEWTWO STORYLINE** — a central plot arc themed on *Pokémon: The First Movie*
+      (Armored Mewtwo). Ties directly to the **courier Dragonite** event (the Dragonite that
+      delivers Mewtwo's invitation letter) → one cohesive first-movie storyline: a mysterious
+      letter/invite → tracking the experiments → confronting **Armored Mewtwo**.
+    - *Art note:* the armor is a **custom sprite** (one-off). Doable as a single special asset;
+      if art slips, fall back to standard Mewtwo sprite. (We otherwise avoid new sprites.)
+    - **★ TWO-PHASE BOSS MECHANIC:**
+      1. **Phase 1 — Trainer battle vs Armored Mewtwo:** fought as a *trainer*-controlled boss
+         (so it can't be caught yet; armor = unbeatable-feeling, tuned tough).
+      2. **On defeat → cutscene:** the **armor breaks/shatters.**
+      3. **Phase 2 — Wild Mewtwo battle:** immediately transition into a **wild** encounter with
+         the now-unarmored Mewtwo → **the player can capture it.**
+      - *Impl:* scripted trainer battle that, on victory, triggers a cutscene then starts a wild
+        battle (engine supports scripted/forced wild encounters). Set Mewtwo's wild level/catch
+        rate so it's a real (but fair) capture moment — the payoff of the whole arc.
 
 ### Method (how we churn through it without drowning)
 1. **Define the "bible" first:** the new world's theme, the renamed Pokémon list, and the cast of
@@ -316,6 +334,8 @@ _(awaiting details)_
 **Shane's favorite: DRAGONITE — the "courier Dragonite" from Pokémon: The First Movie**
 - The Dragonite that delivers Mewtwo's invitation letter at the start of the first movie.
 - Goal: make **this specific Dragonite obtainable as a one-off (single, unique) encounter.**
+- **Ties into the ★ Armored Mewtwo storyline** (see Featured Pokémon) — the letter it delivers is
+  Mewtwo's invitation; the two events form one cohesive *First Movie* arc.
 - Implementation ideas (TBD):
   - A static/scripted one-time encounter (like the legendary/roaming static battles), not a
     wild-grass repeatable spawn — so it's a "deliver-the-letter" themed event.
