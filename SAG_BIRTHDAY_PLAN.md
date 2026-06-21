@@ -335,6 +335,22 @@ Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our
 > Opponents to script here: Team Rocket (grunts + boss), Ash, Misty, Brock. Teams themed to each
 > (Ash = mixed ace incl. Pikachu; Misty = Water; Brock = Rock/Ground), tuned to post-8-badge level.
 
+## ★ GAMEPLAY MECHANICS / DATA TWEAKS
+- **Max IVs + competitive natures for all Pokémon (2026-06-21):**
+  - **Max IVs/DVs** (perfect) on Pokémon — so every catch is competitively viable. (PC keeps DVs
+    for color variation but separates natures; we force perfect DVs.)
+  - **Competitive nature per species, chosen by the line's FINAL evolution's role:** build a
+    per-evolution-line nature table — physical attackers → **Adamant** (or **Jolly** if speed-
+    reliant), special attackers → **Modest**/**Timid**, bulky/defensive → **Bold/Impish/Calm/
+    Careful**, mixed/utility → neutral, etc. Every member of a line inherits the nature picked for
+    its final evo (e.g., Gastly/Haunter → nature optimized for the line; Mankey/Primeape → physical
+    attacker nature).
+  - **Scope (confirmed 2026-06-21): EVERYTHING — universal.** Wild encounters, the player's party,
+    every opponent (rivals, ALL trainers, gym leaders, E4, bosses, in-game gifts/trades). No
+    Pokémon anywhere has weak IVs or a non-competitive nature.
+  - *Impl:* (1) force perfect DVs in the wild/gift generation path; (2) add a species→nature lookup
+    (by final-evo line) and apply on generation/gift. Build the full nature table during build phase.
+
 ## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as details come in.
 - [ ] Story rewrite (narrative, key dialogue, events)
