@@ -24,11 +24,15 @@
 - [x] Create this tracking document
 - [ ] Decide final ROM name / branding strings (Makefile `NAME`, `VERSION`, `AUTHOR`)
 
-## Phase 1 — Build toolchain (so we can produce a playable ROM)
-- [ ] Install build deps (make, gcc, bison, libpng, pkg-config)
-- [ ] Install **RGBDS v1.0.1** (required; `.rgbds-version` = 1.0.1, source enforces v1.0.0+)
-- [ ] Verify a clean **baseline** build produces `polishedcrystal-3.2.3.gbc`
-- [ ] Confirm the ROM runs (sanity: file size / header correct)
+## Phase 1 — Build toolchain (so we can produce a playable ROM)  ✅ DONE
+- [x] Install build deps (make, gcc, bison, libpng, pkg-config)
+- [x] Install **RGBDS v1.0.1** (built from source; `rgbasm v1.0.1`)
+- [x] Verify a clean **baseline** build produces `polishedcrystal-3.2.3.gbc` (2 MB, exit 0)
+- [x] Header/size sanity OK (md5 `4e53ffed7ab34d599276e68f7e4497ed`)
+
+> ⚠️ **SPACE CONSTRAINT:** baseline ROM is **98.8% full** (only ~25 KB / 2 MB free).
+> Adding large new content (many trainers, lots of dialogue, new maps) will require freeing
+> space or it won't fit. Favor *edits/replacements* over *additions*; keep new text tight.
 
 ## Phase 2 — Personalization (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as Shane provides them.
@@ -87,28 +91,37 @@ _(awaiting details)_
 - Files (to locate during impl): static encounter / special wild battle scripts, a map script for
   the event, Dragonite species data, mail/item data if we include the letter.
 
+### Guest characters from other regions (Champions / Gym Leaders)
+- Include cross-region notables as encounterable NPCs/trainers, e.g.:
+  - **Cynthia** (Sinnoh Champion)
+  - **Wallace** (Hoenn Champion / Sootopolis leader)
+  - **Steven Stone** (Hoenn Champion)
+  - **etc.** — more to be named (Lance & Red already exist in base game).
+- Implementation: add them as battleable trainers / cameo NPCs. Each needs a trainer-class +
+  party definition, overworld sprite, and placement/dialogue script. Naturally pairs with the
+  Hoenn/Sinnoh expansion (they can headline those regions), but cameos can also be dropped into
+  the existing world as special post-game battles.
+- Files (to locate): trainer party data (`data/trainers/`), trainer class constants, overworld
+  sprites, and map event scripts for placement.
+
 ### Inside jokes / references / personal touches
-_(awaiting details)_
+
+**Shane = high school baseball player**
+- Weave baseball references in: e.g., player's bedroom could have a baseball/bat decoration or a
+  trophy with custom flavor text; an NPC could reference his playing days; a sign or the TV could
+  mention a game. Trainer flavor / dialogue can use baseball metaphors ("swing for the fences!").
+- Possible nods: a "home run" themed moment, baseball cap on the player sprite (stretch — sprite
+  edit), or a held item / gift item framed as a "lucky bat/ball."
 
 ### Credits / dedication message
 _(awaiting details)_
 
-### Regions — add Hoenn & Sinnoh (on top of Kanto + Johto)  ⚠️ MAJOR SCOPE
-- Want: full **Hoenn** and **Sinnoh** regions added as an expansion on top of the existing
-  Kanto + Johto world.
-- **Reality check:** this is by far the biggest item — each region = dozens of maps, new
-  tilesets/graphics, wild encounter tables, NPC/event scripts, warps, town map data, story
-  hooks, music, etc. A full faithful Hoenn+Sinnoh is hundreds of hours and would dwarf the rest
-  of the gift. Worth scoping deliberately so the birthday build actually ships.
-- **Options to choose from (pick scope):**
-  1. **Teaser/MVP:** add 1–2 iconic locations per region (e.g., a Hoenn route + town, a Sinnoh
-     route + town) reachable via a new portal/ferry — proves the expansion, ships on time.
-  2. **Partial region:** one full region's early-game arc (e.g., Hoenn start area) now, expand later.
-  3. **Full both regions:** treat as a long-term ongoing project beyond the birthday deadline.
-- Pragmatic approach regardless: add a connection point (ferry/portal) from the existing world,
-  then build region maps incrementally. New maps need: `maps/*.asm` + map header registration,
-  `data/maps/`, tileset/blockset gfx, encounter data, town map updates.
-- **DECISION NEEDED from you:** which scope above (1/2/3)? (Defaulting to teaser/MVP unless told.)
+### Regions — Hoenn & Sinnoh  ❌ DESCOPED (2026-06-21)
+- **Decision:** NOT building two new regions. Too large to ship as a gift, and not the point.
+- **New focus instead:** deeply personalize the **story, dialogue, options, and characters**
+  within the existing Kanto + Johto world, and **add on small content where we can**.
+- Cross-region characters (Cynthia/Wallace/Steven, etc.) stay in as **cameos / special battles
+  inside the existing world** (e.g., post-game or themed events) — no new region required.
 
 ---
 
