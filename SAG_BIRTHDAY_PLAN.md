@@ -482,9 +482,11 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 5. **Yankee Stadium (the Bronx)** — GYM 5 *(LOCKED; leader **Aaron Judge** — PRO baseball / "the
    big leagues"; comes right after Riverdale, both in the Bronx)*
 6. **Chelsea Piers** — GYM 6 *(LOCKED; sports complex, just N of West Village where Mom & Dad live)*
-7. **Central Synagogue** — GYM 7
-8. **Paramus, NJ** — GYM 8
-   *(MSG, Barclays/Williamsburg, Long Island → Act II / story venues, not Act-I gyms)*
+   → route after West Village: **Canal Street → Brooklyn Bridge → Williamsburg**
+7. **Brooklyn Law School (Williamsburg)** — GYM 7 *(LOCKED; **Cali** here — beat the leader to get her)*
+8. **Central Synagogue _or_ Paramus, NJ** — GYM 8 *(pick one as the 8th/last Act-I gym; the other
+   → Act II)* — TBD
+   *(MSG, Long Island → Act II / story venues, not Act-I gyms)*
    → **8th badge → courier Dragonite → MEWTWO ISLAND arc**
 **ACT II — college & later-life (Gyms 9–16), then Elite Four:**
 9. **UPenn / APES frat (Philly)** — GYM 9
@@ -599,6 +601,20 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   duplicating Judge (pro) or Randalls (youth ball) — this is the *training cages* angle.
 - **Type:** TBD (athletic → Fighting, or Steel for pitching machines). Confirm at type pass.
 - **Badge/reward:** TBD.
+
+### #7 — BROOKLYN LAW SCHOOL (Williamsburg) — GYM 7 — DRAFT
+- **Route (locked 2026-06-21):** from **West Village**, take **Canal Street** → over the **Brooklyn
+  Bridge** → into **Williamsburg, Brooklyn**. (Great set-piece route: Canal St market chaos, then
+  the iconic bridge crossing into Brooklyn.)
+- **Location:** **Brooklyn Law School** campus, where **Cali** (Shane's younger sister) is a student.
+- **Story beat:** Shane has to **get to / free Cali on campus**, which is **gated behind defeating
+  the school's gym leader.** Beat the gym → reach Cali (sibling reunion / she joins or helps).
+  *(Confirm the exact beat — is Cali stuck/"captured" by the gym, and Shane springs her? Logged as
+  "get Cali by beating the leader.")*
+- **Map concept:** law-school campus — lecture halls, library, mock courtroom; law students as
+  grunt trainers (gunner/1L roast energy).
+- **Leader / Type / Badge:** TBD (a dean/professor? law-themed; could be Psychic "know-it-all" or
+  Normal). Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
