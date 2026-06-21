@@ -163,54 +163,45 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 - **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/opponent teams. ✅
 
 ### Still open
-- **16 Gym Leaders & the ladder** — UNDER DISCUSSION (see draft below). Need: who leads each gym,
-  the Elite Four + Champion, and the final secret superboss (Red analog).
+- **Gyms** = a lighter, SEPARATE layer (see below) — not built from the family. Leaders/types TBD.
+- **Secret final boss** (Red analog) — TBD.
 
-## ★ 16-GYM LADDER — DRAFT FOR DISCUSSION (2026-06-21)
-Structure inherited from PC (so we re-skin, not re-engineer): **Gyms 1–8 → Elite Four + Champion
-(mid-game) → Gyms 9–16 → secret final superboss (Red analog).** Types are PC's existing gym types
-by default (changeable later); we swap in new leaders, teams, and all-new dialogue. Journey flows
-**Hudson Yards → NYC/boroughs → NJ/LI suburbs → (E4/Champ) → college & later-life arc → finale.**
+## ★ DESIGN PRIORITY (2026-06-21): build the WORLD from Shane's life
+**Use the biographical info to build the TOWNS, MAPS, and STORIES — not as a gym-leader roster.**
+The real places become the region's towns/areas; the real people become the **resident NPCs and
+storylines** living in them; real events (baseball, frat, law internship, the Russian spy, the
+crazy uncles) become **quests/story beats**. Gyms sit on top as a separate, lighter progression.
 
-### Act I — NYC & suburbs (Gyms 1–8)
-| # | Location | Leader (draft) | PC type slot | Roast / hook |
-|---|----------|----------------|--------------|--------------|
-| 1 | Hudson Yards (his building) | **Jared** (neighbor, 11I) | Flying | pushover first gym, the weird neighbor |
-| 2 | The Town School (UES) | a **schoolteacher** | Bug | grade-school throwback |
-| 3 | West Village | **Mom** (or Dad) | Normal | the "you'll cry" mom gym |
-| 4 | Central Synagogue | a **rabbi/cantor** | Ghost | bar-mitzvah-era mysticism (respectful + funny) |
-| 5 | Randalls Island | **baseball coach** | Fighting | Shane's HS baseball; "swing for the fences" |
-| 6 | Williamsburg / Barclays | **Cali** (sister) | Steel | law-student sis, ice-cold prep |
-| 7 | Bronx / **Yankee Stadium** | a **Yankees legend** | Ice | the big-league stadium gym |
-| 8 | Paramus, NJ | **Uncle Donut** (short, Napoleon) | Dragon | tiny man, biggest ego, "prestige" 8th gym |
+### Region towns & story beats (the heart of the build)
+Re-skin PC's existing maps into these NYC/NY-themed towns; each carries its real-life vibe,
+resident NPCs, and a personal story beat. (Order = rough travel flow from the start.)
 
-### Mid-game — ELITE FOUR + CHAMPION (the family)
-- **E4 (draft):** Uncle **Matt** & Uncle **Jason** (twins — back-to-back mirror battle), **Grandma
-  Linda** (Paramus), **Dad**. Champion = **the Brother** (the gift-giver) — "beat your big bro."
-- *(All swappable — your call on who's E4 vs Champion.)*
+| Town / area (re-skin of PC map) | Real-life vibe | Resident NPCs | Personal story beat (full roast) |
+|---|---|---|---|
+| **Hudson Yards** (START) | glass high-rises, adult life | **Brother** (same bldg), **Jared** (apt 11I) | wake up in apt 28C; brother/Jared kick off the adventure |
+| **West Village** | brownstone childhood home | **Mom & Dad** | the family home; parents send you off / give gear |
+| **Upper East Side** | posh; **The Town School** | childhood friends, teachers | grade-school throwback; earliest memories |
+| **Randalls Island** | ballfields/park | baseball teammates/coach | Shane's HS baseball; a "big game" event |
+| **Central Synagogue** | landmark | rabbi/cantor | bar-mitzvah-era memory (respectful + funny) |
+| **Williamsburg, Bklyn** | hipster law-student life | **Cali** (sister, Brooklyn Law) | visit lil sis; she ribs Shane |
+| **Bronx** | stadium district | Yankees fans | **Yankee Stadium** landmark/event |
+| **Paramus, NJ** | mall suburbia | **Grandma Linda**, uncles **Matt & Jason** (twins), **Donut** (short) | the "crazy uncles" chaos; Grandma feeds you; mall jokes |
+| **Old Brookville, LI** | quiet, leafy | (memorial) | mother's late parents' home — tender remembered place |
+| **Sidley Austin (NYC)** | corporate law tower | **John Altorelli**, **"the Russian spy"** | the law-internship espionage subplot (full roast) |
+| **NYC nightlife** | dive bars | bartenders/buddies | underage-drinking hidden spots / sidequest |
+| **UPenn (Philly)** | campus + **APES** frat | frat brothers | beer-soaked frat chaos |
+| **Emory (Atlanta)** | grad-school campus | college friends (girls & guys) | benders & buddies |
+| **IMG Academy (FL)** | elite sports academy | coaches/athletes | athletic boot-camp arc |
+| **Camp Pontiac (NY)** | summer camp, lake/woods | camp friends | nostalgic wilderness route |
 
-### Act II — College & later-life arc (Gyms 9–16)
-| # | Location | Leader (draft) | PC type slot | Roast / hook |
-|---|----------|----------------|--------------|--------------|
-| 9 | UPenn / **APES** frat (Philly) | a **frat brother** | Rock | beer, frat-house chaos |
-| 10 | Emory (Atlanta) | a **college friend** | Water | grad-school benders |
-| 11 | **IMG Academy** (Bradenton FL) | an **elite coach** | Electric | intense athletic boot camp |
-| 12 | a college crew spot | a **college girlfriend/friend** | Grass | the chill one |
-| 13 | Sidley Austin (NYC) | **"the Russian spy"** | Poison | she's literally a ninja/spy — perfect fit |
-| 14 | Sidley Austin (NYC) | **John Altorelli** | Psychic | mastermind lawyer boss |
-| 15 | **MSG** | a **showman/Knicks legend** | Fire | the Garden, lights, ego |
-| 16 | (final gym) | **Justin** (RIVAL) | Blue/mixed | rival runs the last gym, Napoleon complex |
+> Landmarks like **MSG** and **Barclays** = set-piece event venues (concerts/games, special battles)
+> rather than full towns. **Riverdale Country School** = secondary school cameo.
 
-### Finale — secret superboss (Mt. Silver / "Red" analog)
-- Candidates: the **Brother** again as the hidden ultimate ("Red"), Shane's **future self**, or tie
-  it to the **courier Dragonite** event. **TBD with you.**
-
-### Discussion points for you
-- Confirm/adjust each **gym leader** above (esp. gyms 7, 9–12, 15).
-- Lock the **Elite Four** (4 people) + **Champion** (1).
-- Pick the **secret final boss**.
-- Want gym **types re-themed** to fit people (more work), or keep PC's types under new skins (faster)?
-- Camp Pontiac, Old Brookville, Riverdale, IMG, bars — which are **gyms** vs **story towns/routes**?
+### Gyms — secondary layer (lighter, TBD)
+- Keep PC's 16-gym backbone, but gyms are **their own thing**, distributed across the towns above.
+- Open: are gym leaders **generic themed trainers**, or a few hand-picked characters? Keep PC gym
+  **types** (faster) vs re-theme. We'll lock this *after* the world/story takes shape.
+- **Justin (rival)** still recurs throughout as Shane's foil regardless of gym design.
 
 ## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as details come in.
