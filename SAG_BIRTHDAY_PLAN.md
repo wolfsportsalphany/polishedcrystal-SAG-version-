@@ -256,6 +256,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Giovanni** | **Gym 8 Leader** — Team Rocket boss; Montauk overrun w/ Rocket; bridges to Mewtwo Island | Montauk Lighthouse |
 | **Grandma Linda** | **Gym 9 Leader** — the whole town knows her | Paramus, NJ |
 | **Uncles Matt, Jason (twins), Donut (short)** | **Gym 9 goons** — Grandma's grunt trainers | Paramus, NJ |
+| **The Shermfather** | **Gym 10 Leader** — frat-boss of APES "4K" | UPenn, Philadelphia |
+| **Madi** (+ **Brielle**) | **Gym 11 Leader** — blonde ex-classmate (Brielle alongside) | Emory Law, Atlanta |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -508,7 +510,8 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
    whole town knows them; reached via **West Side Hwy → GW Bridge → Fort Lee → Paramus**;
    **Fort Lee** LOCATION has **Hiram's** hot dogs & **Dong Bang** Korean BBQ)*
 10. **UPenn / APES frat house "4K" (Philly)** — GYM 10 *(LOCKED; 3-story frat-house gym; leader **The Shermfather**; from Paramus south to Philly)*
-11. **Emory (Atlanta)** — GYM 11
+11. **Emory Law School (Atlanta)** — GYM 11 *(LOCKED; leader **Madi**, blonde ex-classmate, +**Brielle**;
+    FLY from Philly; locations: Emory baseball field, Fox Bros BBQ)*
 12. **IMG Academy (Bradenton FL)** — GYM 12
 13. **Camp Pontiac (NY)** — GYM 13
 14. **Killington, VT** — GYM 14 *(Ice; skiing + the **Wobbly Barn** as the heal/après spot)*
@@ -697,6 +700,21 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Type / Badge:** TBD (Poison "party/keg" flavor fits, or Fighting). Confirm at type pass.
 - **★ WAWA (locked 2026-06-21):** put a **Wawa** in Philly as the local PokéMart re-skin (the
   iconic Philly convenience store — hoagies, late-night runs). Flavor NPCs + Mart function.
+
+### #11 — EMORY LAW SCHOOL (Atlanta) — GYM 11 — DRAFT
+- **Travel (locked 2026-06-21):** from **Philadelphia, FLY to Atlanta** (a flight hop — the
+  Act-II long-distance travel; e.g., board a plane / fast-travel from a Philly airport).
+- **Location:** **Emory Law School**, Atlanta. **Gym 11** is here.
+- **Nearby LOCATIONS (locked):**
+  - **Emory baseball field** — explorable (another nod to Shane's baseball; teammates/pickup game).
+  - **Fox Bros Bar-B-Q** — famous Atlanta BBQ joint; enterable food spot (flavor NPCs, heal/buff
+    items, brisket gags).
+- **Theme:** grad-school / law-campus down south; law students + southern flavor as grunt trainers.
+  Full roast (benders, "y'all," grad-school burnout).
+- **Leader (locked 2026-06-21): MADI** — a **blonde female ex-classmate** of Shane's. With **Brielle**
+  (another girl) also present — co-leader / right-hand / fellow trainer at the gym. Full-roast
+  ex-classmate banter.
+- **Type / Badge:** TBD. Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
