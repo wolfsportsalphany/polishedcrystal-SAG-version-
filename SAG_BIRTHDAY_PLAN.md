@@ -258,6 +258,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Uncles Matt, Jason (twins), Donut (short)** | **Gym 9 goons** — Grandma's grunt trainers | Paramus, NJ |
 | **The Shermfather** | **Gym 10 Leader** — frat-boss of APES "4K" | UPenn, Philadelphia |
 | **Madi** (+ **Brielle**) | **Gym 11 Leader** — blonde ex-classmate (Brielle alongside) | Emory Law, Atlanta |
+| **Roman** | **Gym 12 Leader** — old guy who runs the snack bar (secret boss) | The Hemispheres, Hallandale Beach FL |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -512,11 +513,11 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 10. **UPenn / APES frat house "4K" (Philly)** — GYM 10 *(LOCKED; 3-story frat-house gym; leader **The Shermfather**; from Paramus south to Philly)*
 11. **Emory Law School (Atlanta)** — GYM 11 *(LOCKED; leader **Madi**, blonde ex-classmate, +**Brielle**;
     FLY from Philly; locations: Emory baseball field, Fox Bros BBQ)*
-12. **IMG Academy (Bradenton FL)** — GYM 12
-13. **Camp Pontiac (NY)** — GYM 13
-14. **Killington, VT** — GYM 14 *(Ice; skiing + the **Wobbly Barn** as the heal/après spot)*
-15. **Hallandale Beach, FL — "The Hemispheres"** — GYM 15 *(BASKETBALL old-folks resort; retirees
-   as ballers; full roast)*
+12. **Hallandale Beach, FL — "The Hemispheres"** — GYM 12 *(LOCKED; BASKETBALL old-folks resort;
+   leader **Roman** (old guy who runs the snack bar); FLY from Atlanta)*
+13. **IMG Academy (Bradenton FL)** — GYM 13
+14. **Camp Pontiac (NY)** — GYM 14
+15. **Killington, VT** — GYM 15 *(Ice; skiing + the **Wobbly Barn** as the heal/après spot)*
 16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
@@ -715,6 +716,15 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   (another girl) also present — co-leader / right-hand / fellow trainer at the gym. Full-roast
   ex-classmate banter.
 - **Type / Badge:** TBD. Confirm at type pass.
+
+### #12 — HALLANDALE BEACH, FL — "THE HEMISPHERES" — GYM 12 — DRAFT
+- **Travel (locked 2026-06-21):** from **Atlanta, FLY to The Hemispheres** (Hallandale Beach, SE
+  Florida coast).
+- **Location:** **"The Hemispheres"** — an old-folks **retirement resort**, BASKETBALL-centric;
+  retirees as ballers/grunt trainers (pickup games, walkers, early-bird specials — full roast).
+- **Leader (locked): ROMAN** — the **old guy who runs the snack bar.** Unassuming snack-bar
+  attendant who turns out to be the gym boss (deceptively tough). "You want a hot dog or a beating?"
+- **Type / Badge:** TBD (basketball/athletic → Fighting or Normal). Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
