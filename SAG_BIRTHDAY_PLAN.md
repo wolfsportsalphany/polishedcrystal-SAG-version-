@@ -254,6 +254,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Aaron Judge** | **Gym 5 Leader** — pro baseball slugger, "the big leagues" | Yankee Stadium, the Bronx |
 | **Jesse** | **Gym 7 Leader** — sweet old Black woman, former family nanny (warm, not roast) | Old Brookville, Long Island |
 | **Giovanni** | **Gym 8 Leader** — Team Rocket boss; Montauk overrun w/ Rocket; bridges to Mewtwo Island | Montauk Lighthouse |
+| **Grandma Linda** | **Gym 9 Leader** — the whole town knows her | Paramus, NJ |
+| **Uncles Matt, Jason (twins), Donut (short)** | **Gym 9 goons** — Grandma's grunt trainers | Paramus, NJ |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -397,7 +399,10 @@ Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our
    - Phase 1: trainer battle vs **Armored Mewtwo** with the **mirror team** (clone of player's
      party, +5 levels). Phase 2: armor shatters → **wild Mewtwo** → **catchable.**
 5. **Mew appears** and becomes **catchable after** the Mewtwo battle (movie's other legendary).
-6. Return to the mainland to continue toward **Gyms 9–16**.
+6. **Arc ends → Shane WAKES BACK UP in apt 28C, Hudson Yards** (First-Movie-style dreamlike
+   aftermath / memory haze — did it even happen?). This transitions into **Act II.**
+7. **Act II kickoff:** head home to the **West Village**, where **Dad** tells Shane he needs to
+   **go visit Paramus** → leads into **Gym 9 (Paramus / Grandma Linda)**.
 
 > Opponents to script here: Team Rocket (grunts + boss), Ash, Misty, Brock. Teams themed to each
 > (Ash = mixed ace incl. Pikachu; Misty = Water; Brock = Rock/Ground), tuned to post-8-badge level.
@@ -459,6 +464,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
 | The Bronx | tough urban | Machop, Mankey, Houndour, Murkrow, Raticate, Magnemite (trains) |
 | Brooklyn (Williamsburg) | hipster/arty | Smeargle, Sneasel, Murkrow, Meowth, normal/dark oddities |
 | Long Island (Old Brookville) | estates + beach/Sound | Krabby, Shellder, Staryu, Corsola, Oddish, normal mons; beach fishing |
+| Fort Lee, NJ (over the GW Bridge) | NJ town, food spots | Rattata, Meowth, Magnemite, Growlithe; **Hiram's** (hot dogs) & **Dong Bang** (Korean BBQ) as food/heal spots |
 | Paramus, NJ | malls/suburbs | Rattata, Growlithe, Snubbull, Magnemite (stores), Electrode (carts), normal |
 | Camp Pontiac (Hudson Valley) | woods + lake | Caterpie, Weedle, Scyther, Pinsir, Oddish, Teddiursa, Poliwag (lake), Hoothoot/Spinarak (night) |
 | Killington, VT | snowy mountains | Swinub, Sneasel, Delibird, Jynx, Teddiursa/Ursaring, Phanpy, Snover-likes (Ice) |
@@ -497,16 +503,17 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
    → route: **continue east to the tip of Long Island**
 8. **Montauk Lighthouse** — GYM 8 *(LOCKED; LAST Act-I gym; leader **Giovanni** / Team Rocket boss — bridges to Mewtwo Island)*
    → **after Gym 8: courier DRAGONITE arrives in MONTAUK (battle+catch) → sail to MEWTWO ISLAND arc**
-**ACT II — college & later-life (Gyms 9–16), then Elite Four:**
-9. **UPenn / APES frat (Philly)** — GYM 9
-10. **Emory (Atlanta)** — GYM 10
-11. **IMG Academy (Bradenton FL)** — GYM 11
-12. **Camp Pontiac (NY)** — GYM 12
-13. **Killington, VT** — GYM 13 *(Ice; skiing + the **Wobbly Barn** restaurant as the heal/après spot)*
-14. **Hallandale Beach, FL — "The Hemispheres" resort** — GYM 14 *(BASKETBALL-centric; an old-folks
-   retirement resort — retirees as ballers/trainers. Full-roast: pickup games, "back in my day,"
-   walkers, early-bird specials. Basketball/"sports" theme — likely Fighting or Normal.)*
-15. **Paramus, NJ** — GYM 15 *(Grandma Linda + crazy uncles Matt/Jason/Donut nearby; mall suburbia)*
+**ACT II — opens by waking in apt 28C → West Village (Dad) → Paramus. (Gyms 9–16), then Elite Four:**
+9. **Paramus, NJ** — GYM 9 *(LOCKED; leader **Grandma Linda**, goons = uncles **Matt/Jason/Donut**,
+   whole town knows them; reached via **West Side Hwy → GW Bridge → Fort Lee → Paramus**;
+   **Fort Lee** LOCATION has **Hiram's** hot dogs & **Dong Bang** Korean BBQ)*
+10. **UPenn / APES frat (Philly)** — GYM 10
+11. **Emory (Atlanta)** — GYM 11
+12. **IMG Academy (Bradenton FL)** — GYM 12
+13. **Camp Pontiac (NY)** — GYM 13
+14. **Killington, VT** — GYM 14 *(Ice; skiing + the **Wobbly Barn** as the heal/après spot)*
+15. **Hallandale Beach, FL — "The Hemispheres"** — GYM 15 *(BASKETBALL old-folks resort; retirees
+   as ballers; full roast)*
 16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
@@ -660,6 +667,23 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 > ✅ **GYM COUNT RESOLVED:** Act I = exactly **8** (Sidley, Town School, Randalls, Riverdale,
 > Yankee, Brooklyn Law, Old Brookville, Montauk). Act-II candidates (UPenn, Emory, IMG, Camp
 > Pontiac, Killington, Hallandale, Central Synagogue, Paramus) = **8** → fits 9–16 cleanly.
+
+### ACT II OPENING + #9 — PARAMUS, NJ — GYM 9 (Grandma Linda) — DRAFT
+- **Act II kickoff (locked 2026-06-21):** after Mewtwo Island, Shane **wakes in apt 28C** → goes
+  home to the **West Village** → **Dad tells him to visit Paramus.**
+- **Route to Paramus (locked):** from the **West Village**, take the **West Side Highway** north up
+  to the **George Washington Bridge**, cross into NJ to **FORT LEE**, then on to **Paramus**.
+- **FORT LEE (LOCATION, next to Paramus):** NJ town just over the GW Bridge. Landmarks:
+  **Hiram's** (famous hot dogs) and **Dong Bang** (Korean BBQ) — make them enterable food spots
+  (flavor NPCs, maybe heal/buff items). Korean-BBQ + hot-dog-joint gags.
+- **PARAMUS = GYM 9:**
+  - **Leader (locked): GRANDMA LINDA** — the gym leader, at her Paramus home/turf.
+  - **Goons (locked): the uncles MATT, JASON (twins) & DONUT (short)** = her grunt trainers
+    (you battle all of them on the way to Grandma). **The whole town knows them** — every NPC
+    references the famous/crazy uncles and Grandma Linda.
+  - **Tone:** affectionate full-roast family chaos (mall suburbia, "eat something," uncle antics,
+    Donut's Napoleon-complex bit echoing Justin).
+  - **Type / Badge:** TBD (Grandma → Fairy/Normal? uncles → mixed). Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
