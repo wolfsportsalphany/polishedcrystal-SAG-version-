@@ -105,6 +105,10 @@ in milestones.
     - **★ TWO-PHASE BOSS MECHANIC:**
       1. **Phase 1 — Trainer battle vs Armored Mewtwo:** fought as a *trainer*-controlled boss
          (so it can't be caught yet; armor = unbeatable-feeling, tuned tough).
+         - **★ MIRROR TEAM:** Mewtwo's party is a **clone of the PLAYER's current team, each member
+           +5 levels.** (On-theme: Mewtwo is a clone — it copies you.) *Impl: custom code that
+           reads `wPartyMon` species/moves at battle start and builds the enemy party as copies at
+           +5 levels — not a static party. Non-trivial engine work; flag for build phase.*
       2. **On defeat → cutscene:** the **armor breaks/shatters.**
       3. **Phase 2 — Wild Mewtwo battle:** immediately transition into a **wild** encounter with
          the now-unarmored Mewtwo → **the player can capture it.**
