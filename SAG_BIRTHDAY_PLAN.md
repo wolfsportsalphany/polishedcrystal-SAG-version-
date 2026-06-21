@@ -144,7 +144,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | Person | Role in game | Placed at |
 |--------|--------------|-----------|
 | **Shane** | Player / hero | starts West Village |
-| **Justin** | **Rival** — short, Napoleon complex | follows Shane's journey |
+| **Justin** | **Rival** — short, Napoleon complex; **owns a Pilates studio** he insists beats being a lawyer; first battle blocks the Sidley Austin entrance | follows Shane's journey |
 | **Merrick** | **Justin's brother** — genuinely nice; warm foil to Justin's ego | helpful NPC; encourages Shane, maybe gives items/tips |
 | **Mom & Dad** | Parents (home NPCs) | West Village |
 | **Cali** (younger sister) | Family NPC (law student) | Williamsburg / Brooklyn Law |
@@ -184,9 +184,14 @@ The concrete first slice of the game (Act I start):
 5. **Route = TIMES SQUARE** — the "route" from Hudson Yards to the first gym is **Times Square** —
    **make it FUNNY**: costumed characters (knockoff Elmo/Spider-Man), the Naked Cowboy, aggressive
    flyer-handers, tourists blocking the path, ticket scalpers as "trainers," etc.
-6. **FIRST GYM = Sidley Austin law firm (Midtown)** — Shane's **office**. The first gym battle is
-   set in his corporate law firm. (Leader likely **John Altorelli**; ties into the law-internship /
-   "Russian spy" subplot. Full roast — billable hours, associates as grunts, etc.)
+6. **FIRST RIVAL BATTLE — Justin** — right **before Shane first enters Sidley Austin**, **Justin
+   runs up and blocks the entrance** and challenges him to a battle. In his intro he brags that
+   he **owns a Pilates studio**, which (in his mind) is **way better than being a lawyer** — peak
+   Napoleon-complex energy. (This is Shane's first encounter with the rival.)
+7. **FIRST GYM = Sidley Austin law firm (Midtown)** — a **MULTI-STORY gym** (navigate floors of the
+   office building, like an elevator/floor-puzzle gym). Set in Shane's corporate law firm.
+   Leader likely **John Altorelli**; ties into the law-internship / "Russian spy" subplot.
+   Full roast — billable hours, associates/paralegals as grunt trainers, conference-room battles.
 
 > **Pokémon note:** **Eevee** = the opening gift / signature companion (only one in the game).
 > Other "starters/legendaries" re-cast per the casting rule. NOTE: this moves **Sidley Austin from
