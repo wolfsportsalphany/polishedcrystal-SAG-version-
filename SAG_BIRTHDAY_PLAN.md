@@ -73,6 +73,7 @@ in milestones.
 - **Characters:** all NPCs/trainers — names, personalities, sprites where it matters.
 - **Pokémon — RESOLVED (2026-06-21):** keep the **same Pokédex** (all existing species, sprites,
   cries, dex). "New Pokémon" means **re-cast which Pokémon appear situationally**:
+  - signature gift: **Eevee** from Jared on floor 11 (the ONLY Eevee in the game).
   - different **starters**, different **legendaries** (and their encounter events),
   - re-chosen **wild encounter tables** per area,
   - **every opponent's team** rebuilt (rivals, gym leaders, E4, route trainers, bosses).
@@ -167,6 +168,30 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 - **Gyms** = a lighter, SEPARATE layer (see below) — not built from the family. Leaders/types TBD.
 - **Secret final boss** (Red analog) — TBD.
 
+## ★ OPENING SEQUENCE — LOCKED & READY TO BUILD (2026-06-21)
+The concrete first slice of the game (Act I start):
+
+1. **Apt 28C, Hudson Yards** — Shane wakes up in his 1-bedroom apartment on the **28th floor**.
+   Tutorial/room beat, then head out to the elevator.
+2. **Elevator → 11th floor** — Shane takes the elevator **down to the 11th floor to visit his
+   brother**. (Brother lives on floor 11; **Jared** is the neighbor in **apt 11I**.)
+3. **The Eevee gift** — on the 11th floor, **Jared** says he found a **Poké Ball with a rare
+   Pokémon** and wants Shane to have it → it's an **EEVEE**. This is the **only obtainable Eevee
+   in the entire game** (so it's Shane's signature starter/companion).
+4. **Downstairs = Hudson Yards (explorable hub)** — the lobby/street level is the explorable
+   **Hudson Yards** area. **Doormen NPCs: Robert, Eric, Jose, and Jonathon.** (Give each a distinct
+   funny personality.)
+5. **Route = TIMES SQUARE** — the "route" from Hudson Yards to the first gym is **Times Square** —
+   **make it FUNNY**: costumed characters (knockoff Elmo/Spider-Man), the Naked Cowboy, aggressive
+   flyer-handers, tourists blocking the path, ticket scalpers as "trainers," etc.
+6. **FIRST GYM = Sidley Austin law firm (Midtown)** — Shane's **office**. The first gym battle is
+   set in his corporate law firm. (Leader likely **John Altorelli**; ties into the law-internship /
+   "Russian spy" subplot. Full roast — billable hours, associates as grunts, etc.)
+
+> **Pokémon note:** **Eevee** = the opening gift / signature companion (only one in the game).
+> Other "starters/legendaries" re-cast per the casting rule. NOTE: this moves **Sidley Austin from
+> the late-game law tower to GYM #1** — gym layout/order is being driven by the real-life flow now.
+
 ## ★ DESIGN PRIORITY (2026-06-21): build the WORLD from Shane's life
 **Use the biographical info to build the TOWNS, MAPS, and STORIES — not as a gym-leader roster.**
 The real places become the region's towns/areas; the real people become the **resident NPCs and
@@ -179,7 +204,8 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 
 | Town / area (re-skin of PC map) | Real-life vibe | Resident NPCs | Personal story beat (full roast) |
 |---|---|---|---|
-| **Hudson Yards** (START) | glass high-rises, adult life | **Brother** (same bldg), **Jared** (apt 11I) | wake up in apt 28C; brother/Jared kick off the adventure |
+| **Hudson Yards** (START) | glass high-rises, adult life | **Brother** (floor 11), **Jared** (apt 11I); doormen **Robert, Eric, Jose, Jonathon** | wake in apt 28C → elevator to fl 11 → Jared gifts **Eevee** → explore Hudson Yards lobby/street |
+| **Times Square** (Route 1) | tourist-trap chaos | costumed characters, Naked Cowboy, scalpers | the funny "route" from Hudson Yards to the office — see Opening seq. |
 | **West Village** | brownstone childhood home | **Mom & Dad** | the family home; parents send you off / give gear |
 | **Upper East Side** | posh; **The Town School** | childhood friends, teachers | grade-school throwback; earliest memories |
 | **Randalls Island** | ballfields/park | baseball teammates/coach | Shane's HS baseball; a "big game" event |
@@ -188,7 +214,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 | **Bronx** | stadium district | Yankees fans | **Yankee Stadium** landmark/event |
 | **Paramus, NJ** | mall suburbia | **Grandma Linda**, uncles **Matt & Jason** (twins), **Donut** (short) | the "crazy uncles" chaos; Grandma feeds you; mall jokes |
 | **Old Brookville, LI** | quiet, leafy | (memorial) | mother's late parents' home — tender remembered place |
-| **Sidley Austin (NYC)** | corporate law tower | **John Altorelli**, **"the Russian spy"** | the law-internship espionage subplot (full roast) |
+| **Sidley Austin (Midtown)** — **GYM #1** | corporate law tower / his office | **John Altorelli** (likely GYM 1 leader), **"the Russian spy"** | first gym battle at the firm; law-internship espionage subplot (full roast) |
 | **NYC nightlife** | dive bars | bartenders/buddies | underage-drinking hidden spots / sidequest |
 | **UPenn (Philly)** | campus + **APES** frat | frat brothers | beer-soaked frat chaos |
 | **Emory (Atlanta)** | grad-school campus | college friends (girls & guys) | benders & buddies |
