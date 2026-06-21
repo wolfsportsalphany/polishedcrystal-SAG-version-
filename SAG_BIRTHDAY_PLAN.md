@@ -234,6 +234,12 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 > Landmarks like **MSG** and **Barclays** = set-piece event venues (concerts/games, special battles)
 > rather than full towns. **Riverdale Country School** = secondary school cameo.
 
+### Recurring citywide establishments
+- **Joe's Pizza** — a **chain with a location in every neighborhood/town** across the region.
+  Strong candidate to **re-skin the Pokémon Center** (grab a slice → team fully healed) and/or
+  serve as a recurring social hub with a friendly counter NPC. Consistent storefront everywhere
+  ties the whole NYC world together. *(Decision: use Joe's as the heal-spot, the Mart, or both?)*
+
 ### Gyms — secondary layer (lighter, TBD)
 - Keep PC's 16-gym backbone, but gyms are **their own thing**, distributed across the towns above.
 - Open: are gym leaders **generic themed trainers**, or a few hand-picked characters? Keep PC gym
