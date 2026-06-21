@@ -93,9 +93,13 @@ in milestones.
     - **Haunter — SPECIFICALLY Haunter, not Gengar.** Shane loves Haunter itself; feature Haunter
       prominently (ace/ally/opponent), but **stop at Haunter** — don't push the Gengar evolution
       (Haunter is the star, the "perfect form" here).
-  - **LEGENDARIES — downplay overall (Shane isn't a legendary guy), with ONE big exception:**
-    - **MEWTWO is his favorite by far → the marquee legendary.** Minimize/cut other legendary
-      events; concentrate the legendary content into Mewtwo.
+  - **LEGENDARIES — use them AGAINST the player, don't hand them out:**
+    - Shane doesn't love legendaries, so **the player generally can't obtain them** — instead the
+      **second-half GYM LEADERS (gyms 9–16) and the ELITE FOUR field legendaries in their parties**
+      as serious threats. Legendaries become intimidating opponent power, not collectibles.
+    - **MEWTWO (+ Mew) are the deliberate exceptions** — catchable only via the Mewtwo Island arc
+      (his favorite, earned through the *First Movie* climax). Concentrate player-obtainable
+      legendary content into that one arc; keep others as enemies-only.
     - **★ ARMORED MEWTWO STORYLINE** — a central plot arc themed on *Pokémon: The First Movie*
       (Armored Mewtwo). Ties directly to the **courier Dragonite** event (the Dragonite that
       delivers Mewtwo's invitation letter) → one cohesive first-movie storyline: a mysterious
