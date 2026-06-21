@@ -25,6 +25,54 @@ on top of it.** The personalization is what makes it Shane's, not the base.
 
 ---
 
+## ★★ STAGING SUMMARY — current state before we start building ★★
+The complete picture as of 2026-06-21, so we're aligned before cutting code.
+
+### What the game IS
+A total-conversion of **Polished Crystal** (keep its engine/QOL/features) where the whole content
+layer is rebuilt as **Shane Austin Gaer's life, mapped onto one big interconnected NYC/tri-state
+region**. Every line of dialogue, character, and Pokémon casting is new. **Full-roast** comedic tone.
+
+### Locked foundations
+- **Base/engine:** Polished Crystal (builds clean here — RGBDS 1.0.1 verified).
+- **World:** ONE region = full Johto+Kanto landmass combined, re-skinned to **real tri-state
+  geography** (Manhattan core; Bronx/Hudson Valley/Killington north; LI east; NJ/Philly west/SW;
+  Brooklyn south; ocean + Mewtwo Island; far-south college leg). Wild Pokémon themed per area.
+- **Progression:** **Gyms 1–8 (NYC/suburbs) → [8th badge] courier Dragonite + MEWTWO ISLAND arc
+  (replaces mid-game E4) → Gyms 9–16 (college/later-life) → [16th badge] ELITE FOUR (+ Champion/
+  final boss TBD).**
+- **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/all teams; themed to opponent
+  & location. **All Pokémon get max IVs + competitive natures (universal).** Favorites featured:
+  **Eevee, Primeape, Haunter (not Gengar), Dragonite, Mewtwo.** Legendaries are **enemies-only**
+  (gyms 9–16 + E4 wield them) **except Mewtwo & Mew** (caught on Mewtwo Island).
+- **Establishments:** location-based Marts (CVS/Duane Reade/Target/bodega…) & Centers (CityMD/
+  hospital/spa…); **Joe's Pizza** chain; **bars** & **weed dispensaries** (full roast).
+
+### GAME FLOW (start → finish)
+1. **Open:** wake in **apt 28C, Hudson Yards**; party = **Lv1 Gastly + Lv1 Mankey**.
+2. **Floor 11:** **brother** sends Shane off (gear); **Jared** gifts **Eevee** (only one in game).
+3. **Hudson Yards** plaza (doormen **Robert/Eric/Jose/Jonathon**) → **Times Square** (funny route).
+4. **Justin** blocks Sidley Austin for the **first rival battle** (Eevee vs Eevee; Pilates brag) →
+   **GYM 1: Sidley Austin** (Altorelli; multi-story office; Russian-spy subplot seed).
+5. **Gyms 2–8** across NYC/suburbs; family & story NPCs woven through (Mom/Dad West Village, Cali
+   Williamsburg, Grandma Linda + uncles Matt/Jason/Donut in Paramus, Old Brookville memorial);
+   opponents begin fielding legendaries in later gyms.
+6. **[8th badge] courier Dragonite** invitation (battle+catch) → **MEWTWO ISLAND** (*First Movie*
+   climax: battle Team Rocket, Ash, Misty, Brock, and **Justin**; **Armored Mewtwo** two-phase
+   mirror-team boss → catch Mewtwo; **Mew** catchable after).
+7. **Gyms 9–16** (UPenn/APES, Emory, IMG, Camp Pontiac, **Killington/Wobbly Barn**, +TBD).
+8. **[16th badge] ELITE FOUR** (+ Champion / secret final boss — cast TBD).
+
+### Ready to BUILD now (the vertical slice)
+The **opening through Gym 1** is fully specified: apt 28C → floor 11 (Eevee) → Hudson Yards →
+Times Square → Justin → Sidley Austin gym.
+
+### Still OPEN (won't block the opening)
+- Gyms **14–16** locations/leaders; **gym types** (keep PC's vs re-theme); **Elite Four + Champion
+  + secret final boss** cast.
+- Exact **starting Eevee level**; the **species→nature** table; **Joe's** exact role.
+- Custom **Armored Mewtwo sprite** + **mirror-team** custom code (build-phase engineering).
+
 ## Status Legend
 - [ ] Not started
 - [~] In progress
@@ -334,6 +382,129 @@ Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our
 
 > Opponents to script here: Team Rocket (grunts + boss), Ash, Misty, Brock. Teams themed to each
 > (Ash = mixed ace incl. Pikachu; Misty = Water; Brock = Rock/Ground), tuned to post-8-badge level.
+
+## ★ GEOGRAPHICAL MAP PLAN — ONE INTERCONNECTED REGION (real tri-state geography)
+Design the whole region to mirror **real Northeast geography** (compressed to GB scale), so it
+reads as one continuous, sensible map. NYC is the dense core; arms radiate by true compass
+direction; water bodies are real; the southern college leg is a long journey south.
+
+### Region shape & connectivity (compass-accurate)
+```
+                         [ KILLINGTON, VT ]        far NORTH — snowy mountains (Ice)
+                          ski slopes + Wobbly Barn
+                                  |
+                       [ Hudson Valley — CAMP PONTIAC ]   woods + lake (Bug/Grass/Water)
+                                  |
+   [ PARAMUS, NJ ] ——— [ THE BRONX ] ——————————— [ LONG ISLAND ]
+   malls/suburbs (W,    Yankee Stadium,            Old Brookville, beaches,
+   across Hudson R.)    Riverdale (N)               Sound (E)
+            \                |                        /
+             \        ===== MANHATTAN CORE =====     /
+              \   Riverside Pk (W riverfront greenway, 4-wide)
+                  Hudson Yards (START, W midtown)
+                  Times Sq → Midtown (Sidley Austin GYM 1)
+                  Central Park (central green hub)
+                  Upper East Side / Town School (NE)
+                  West Village (S)  ·  Central Synagogue (Midtown E)
+                  Randalls Island (NE, in the East River)
+                         |                        |
+                  [ Hudson R. ]            [ East R. ]
+                         \                  /
+                          [ BROOKLYN ]  Williamsburg / Barclays (S/SE)
+                                  |
+                          [ NY HARBOR / ATLANTIC ]
+                                  |
+                          [ MEWTWO ISLAND ]   out at sea (unlocks after 8th badge)
+
+   ── SOUTHERN LEG (Act II; reached by Amtrak/flight from Penn Station) ──
+   [ PHILADELPHIA / UPenn ] ——S——> [ ATLANTA / Emory ] ——S——> [ FLORIDA / IMG, Bradenton ]
+        (~SW of NYC)                  (deep south, warm)        (tropical coast)
+```
+- **Water/surf routes:** Hudson River (W), East River (E), NY Harbor (S → Mewtwo Island), Long
+  Island Sound (E). HM Surf/fishing gate the islands & coastlines.
+- **North spine:** Manhattan → Bronx → Hudson Valley (Camp Pontiac) → Killington, VT (coldest/
+  northernmost). Temperature/biome shifts colder as you go north (snow at Killington).
+- **Southern leg** is intentionally far (real distance) — handled as an Act-II travel hop, not a
+  walkable connection, matching reality.
+
+### Wild Pokémon by area (same Pokédex, themed to place)
+| Area | Biome | Themed wild Pokémon (examples) |
+|---|---|---|
+| Manhattan streets/subway | gritty urban | Rattata/Raticate, Pidgey, Grimer/Muk (trash), Koffing (exhaust), Zubat (subway), Meowth, Ekans |
+| Central Park / Riverside Park | city greenery | Caterpie/Weedle, Oddish, Bellsprout, Sentret, Hoothoot, Spearow, Pidgey, Sunkern |
+| Randalls Island | waterfront ballfields | Mankey/Machop (athletes), Magikarp/Poliwag/Goldeen (fishing), normal mons |
+| Hudson/East River, Harbor | water/surf | Tentacool, Magikarp, Goldeen, Krabby, Staryu, Horsea, Shellder |
+| The Bronx | tough urban | Machop, Mankey, Houndour, Murkrow, Raticate, Magnemite (trains) |
+| Brooklyn (Williamsburg) | hipster/arty | Smeargle, Sneasel, Murkrow, Meowth, normal/dark oddities |
+| Long Island (Old Brookville) | estates + beach/Sound | Krabby, Shellder, Staryu, Corsola, Oddish, normal mons; beach fishing |
+| Paramus, NJ | malls/suburbs | Rattata, Growlithe, Snubbull, Magnemite (stores), Electrode (carts), normal |
+| Camp Pontiac (Hudson Valley) | woods + lake | Caterpie, Weedle, Scyther, Pinsir, Oddish, Teddiursa, Poliwag (lake), Hoothoot/Spinarak (night) |
+| Killington, VT | snowy mountains | Swinub, Sneasel, Delibird, Jynx, Teddiursa/Ursaring, Phanpy, Snover-likes (Ice) |
+| Philadelphia (UPenn) | historic city | Geodude, Rattata, Growlithe, Magnemite, urban mons |
+| Atlanta (Emory) | warm south | Growlithe/Vulpix, Bellsprout, Sunkern, Houndour, Stantler (woods) |
+| Florida (IMG, Bradenton) | tropical coast/swamp | Totodile-line (wild gators), Krabby, Exeggcute (palms), Slugma, Machop (athletes), beach water |
+
+> **Note:** Shane's favorites stay special: **Mankey** features around Randalls/Bronx (Fighting),
+> **Gastly/Haunter** in spooky night spots (Central Park at night, old buildings), **Eevee** stays
+> Jared-only, **Dragonite** stays the Mewtwo-Island one-off.
+
+## ★ LOCATION & GYM BUILDOUT (in progress — going through each, in order)
+Per-location detail captured here as we walk through them. Format per entry: **map concept →
+resident NPCs → story beat → (if gym) leader / type / team theme / puzzle.** Gym **types** default
+to PC's existing types under new skins unless we re-theme (your call per gym).
+
+### Proposed order / skeleton (DRAFT — reorder freely)
+**ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo Island:**
+0. **Hudson Yards** — START hub (not a gym)
+   → route: **Times Square**
+1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED)*
+2. **The Town School (Upper East Side)** — GYM 2
+3. **Central Park** — GYM 3
+4. **Barclays / Williamsburg (Brooklyn)** — GYM 4
+5. **Yankee Stadium (Bronx)** — GYM 5
+6. **Central Synagogue** — GYM 6
+7. **Paramus, NJ** — GYM 7
+8. **MSG (or Long Island)** — GYM 8
+   → **8th badge → courier Dragonite → MEWTWO ISLAND arc**
+**ACT II — college & later-life (Gyms 9–16), then Elite Four:**
+9. **UPenn / APES frat (Philly)** — GYM 9
+10. **Emory (Atlanta)** — GYM 10
+11. **IMG Academy (Bradenton FL)** — GYM 11
+12. **Camp Pontiac (NY)** — GYM 12
+13. **Killington, VT** — GYM 13 *(Ice; skiing + the **Wobbly Barn** restaurant as the heal/après spot)*
+14–16. **TBD — need ~3 more locations** (ideas: a bar/nightlife district, a dispensary district,
+   the Hamptons, JFK/airport, Atlantic City, etc.)
+   → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
+
+> Non-gym story spots to thread between gyms: **West Village** (Mom & Dad), **Williamsburg** (Cali),
+> **Old Brookville** (memorial), **Riverside Park** greenway, **Randalls Island**, NYC **bars** &
+> **dispensaries**. **Joe's Pizza** + location-based Marts/Centers everywhere.
+
+### #0 — HUDSON YARDS (start hub) — DRAFT
+- **Map concept:** sleek glass high-rise + ground-level plaza/street (the real Hudson Yards "Vessel"
+  could be a landmark set-piece). Interior: Shane's **apt 28C** (bedroom/start), elevator,
+  **floor 11** (brother's place + Jared's apt 11I), lobby.
+- **NPCs:** **Brother** (send-off, gives gear), **Jared** (gives **Eevee**), doormen **Robert,
+  Eric, Jose, Jonathon** (each a distinct funny personality), neighbors.
+- **Story beat:** wake in 28C → elevator to fl 11 → Jared's Eevee → brother sends Shane off →
+  exit into Hudson Yards plaza → head to **Times Square** (route) → Gym 1.
+- **Not a gym.** Heal/shop: a location-appropriate Center + Mart here (e.g., a CityMD + a Duane
+  Reade), plus a **Joe's Pizza**.
+
+### #1 — SIDLEY AUSTIN / MIDTOWN — GYM 1 — DRAFT
+- **Map concept:** corporate law-firm skyscraper, **multi-story gym** (ride elevators between
+  floors; each floor a mini-area with trainers — reception, bullpen, conference rooms, partner's
+  corner office at the top). Floor-puzzle navigation.
+- **Approach (route):** **Times Square** — funny gauntlet (knockoff Elmo/Spider-Man, Naked Cowboy,
+  scalpers as trainers, flyer-handers blocking the way, tourist crowds).
+- **Rival gate:** **Justin** blocks the entrance for the **first rival battle** (Eevee vs Eevee;
+  Pilates-studio brag; Jared/wedding roast).
+- **Leader (draft):** **John Altorelli** (managing partner). **Type:** TBD — keep PC Gym-1 type or
+  re-theme (suggest a "white-collar" flavor; e.g., Normal/Psychic "billable-hours" theme).
+- **Team theme:** sharp-dressed corporate mons; paralegals/associates as grunt trainers.
+- **Subplot seed:** introduces the **"Russian spy"** / law-internship espionage thread (pays off
+  later). **Full roast** — billable hours, "we'll circle back," overworked associates.
+- **Badge/reward:** TBD name (e.g., "Retainer Badge").
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
