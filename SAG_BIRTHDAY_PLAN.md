@@ -144,6 +144,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 |--------|--------------|-----------|
 | **Shane** | Player / hero | starts West Village |
 | **Justin** | **Rival** — short, Napoleon complex | follows Shane's journey |
+| **Merrick** | **Justin's brother** — genuinely nice; warm foil to Justin's ego | helpful NPC; encourages Shane, maybe gives items/tips |
 | **Mom & Dad** | Parents (home NPCs) | West Village |
 | **Cali** (younger sister) | Family NPC (law student) | Williamsburg / Brooklyn Law |
 | **Brother** (the gift-giver) | NPC — same Hudson Yards building | Hudson Yards |
