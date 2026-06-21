@@ -90,6 +90,9 @@ in milestones.
       ally/opponent teams. A signature 'mon for Shane.
     - **Dragonite line (Dratini → Dragonair → Dragonite)** — already special via the **courier
       Dragonite** one-off event; lean into the line as a prestige/aspirational Pokémon.
+    - **Haunter — SPECIFICALLY Haunter, not Gengar.** Shane loves Haunter itself; feature Haunter
+      prominently (ace/ally/opponent), but **stop at Haunter** — don't push the Gengar evolution
+      (Haunter is the star, the "perfect form" here).
 
 ### Method (how we churn through it without drowning)
 1. **Define the "bible" first:** the new world's theme, the renamed Pokémon list, and the cast of
