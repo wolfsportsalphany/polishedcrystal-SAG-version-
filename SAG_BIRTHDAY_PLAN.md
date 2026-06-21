@@ -93,6 +93,71 @@ in milestones.
 - [ ] Intro & New Bark / starting town
 - [ ] (further areas added as we reach them)
 
+## ★ WORLD BIBLE — "NYC / NY SUBURBS" THEME (Shane's life as a region)
+The unified region = **Shane's life journey**, centered on **New York City**, radiating out to the
+suburbs (NJ, Long Island) and his later life travels (Philadelphia, Atlanta, Bradenton FL).
+Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (the hero).
+
+### Locations → map roles (DRAFT — to refine into towns/routes/gyms)
+**NYC core (heart of the region):**
+- **West Village** — *later childhood home*; **MOM & DAD live here.** → strong "home town"
+  (the New Bark / player's-house analog where the adventure begins).
+- **Upper East Side** — *early-childhood memories sprinkled here*; home of **The Town School**
+  (Shane's UES school). Nostalgic early-game town/district.
+- **Randalls Island** — *baseball* fields (early-childhood baseball). → park/route w/ baseball NPCs.
+- **Hudson Yards** — Shane's **current home**, same building as his **brother**; Shane on **28th
+  floor, apt C**; **Jared** on **11I** (age 11?). → sleek modern city hub.
+- **Williamsburg, Brooklyn** — younger sister **Cali** (at **Brooklyn Law School**).
+- **Central Synagogue (NYC)** — landmark; key building/event (bar-mitzvah-era memory?).
+- **Sidley Austin law firm (NYC)** + **John Altorelli** & **"the Russian spy" he dated** —
+  law-internship storyline NPCs.
+- **Underage bars (NYC)** — nightlife flavor NPCs / hidden spots.
+- **Riverdale Country School (NYC/Bronx)** — another school location.
+
+**Sports venues (prime GYM / arena candidates):**
+- **Yankee Stadium (Bronx)** — baseball → top gym candidate (ties Shane's HS baseball).
+- **Madison Square Garden (MSG)** — arena/gym candidate.
+- **Barclays Center (Brooklyn)** — arena/gym candidate.
+- **IMG Academy (Bradenton, FL)** — sports academy → athletics gym candidate.
+
+**NY suburbs / tri-state:**
+- **Paramus (NJ)** — **Grandma Linda's** home; the **3 crazy uncles** (dad's brothers):
+  **Matt & Jason (twins)** + **Donut (short, Napoleon complex)**.
+- **Old Brookville (Long Island)** — mother's parents' home; **grandparents are deceased** →
+  handle tenderly (memorial / remembered place, NOT a battle gag).
+
+**College / later-life journey (farther region areas):**
+- **University of Pennsylvania, School of Arts & Sciences (Philadelphia)** — **APES** frat; beer
+  with friends.
+- **Emory University Law School (Atlanta)** — drank beer with friends (girls & guys).
+- **Camp Pontiac (NY)** — summer camp; nostalgic woods/lake route.
+
+### Cast
+| Person | Role in game | Placed at |
+|--------|--------------|-----------|
+| **Shane** | Player / hero | starts West Village |
+| **Justin** | **Rival** — short, Napoleon complex | follows Shane's journey |
+| **Mom & Dad** | Parents (home NPCs) | West Village |
+| **Cali** (younger sister) | Family NPC (law student) | Williamsburg / Brooklyn Law |
+| **Brother** (the gift-giver) | NPC — same Hudson Yards building | Hudson Yards |
+| **Jared** | NPC — same building, apt **11I** (age 11?) | Hudson Yards |
+| **Grandma Linda** | Family NPC | Paramus |
+| **Uncle Matt** & **Uncle Jason** | Twins, "crazy uncles" | Paramus |
+| **Uncle Donut** | Short, Napoleon complex (cf. Justin) | Paramus |
+| Maternal grandparents | Remembered (deceased) — respectful memorial | Old Brookville |
+| **John Altorelli** | Law-internship character | Sidley Austin, NYC |
+| "The Russian spy" | Quirky law-internship NPC (he dated) | Sidley Austin, NYC |
+
+### Open questions to lock (for gym/flow design)
+- **16 Gym Leaders:** who/what is each gym? (Draft idea: cast real people + venues — e.g., Yankee
+  Stadium/MSG/Barclays/IMG as themed gyms, uncles/relatives as leaders.) **Need your picks.**
+- **Start point & arc:** begin in **West Village** (mom/dad) per above? Journey order through the
+  16 gyms across NYC → suburbs → Philly → Atlanta → FL?
+- **Tone:** how spicy do "underage bars" / law-internship / Russian-spy bits get? (Keep it a
+  fun roast, or PG?)
+- **Jared:** age 11, or apartment 11I, or both? Relationship to Shane?
+- **Pokémon rename scope:** still (A) rename+flavor / (B) +retype/stat / (C) full fakemon art.
+
 ## Phase 2 — Content rebuild (the gift) — DETAILS BELOW
 Implemented from the "Personalization Details" section as details come in.
 - [ ] Story rewrite (narrative, key dialogue, events)
