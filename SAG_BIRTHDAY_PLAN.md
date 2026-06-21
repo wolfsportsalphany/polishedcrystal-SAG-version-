@@ -260,6 +260,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Madi** (+ **Brielle**) | **Gym 11 Leader** — blonde ex-classmate (Brielle alongside) | Emory Law, Atlanta |
 | **Roman** | **Gym 12 Leader** — old guy who runs the snack bar (secret boss) | The Hemispheres, Hallandale Beach FL |
 | **J.R. Murphy** | **Gym 13 Leader** — baseball (catcher); elite-academy boss | IMG Academy, Bradenton FL |
+| **Kenny** | **Gym 14 Leader** — Dad's friend; chairlift-spitting lore | Killington, VT (mountaintop) |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -517,8 +518,9 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 12. **Hallandale Beach, FL — "The Hemispheres"** — GYM 12 *(LOCKED; BASKETBALL old-folks resort;
    leader **Roman** (old guy who runs the snack bar); FLY from Atlanta)*
 13. **IMG Academy (Bradenton FL)** — GYM 13 *(LOCKED; BASEBALL; leader **J.R. Murphy**; path across FL from Hallandale)*
-14. **Camp Pontiac (NY)** — GYM 14
-15. **Killington, VT** — GYM 15 *(Ice; skiing + the **Wobbly Barn** as the heal/après spot)*
+14. **Killington, VT** — GYM 14 *(LOCKED; Ice, gym ATOP the mountain; leader **Kenny** (Dad's friend);
+   **Wobbly Barn** + a **Jamaican jerk** restaurant on the slopes; FLY from Florida)*
+15. **Camp Pontiac (NY)** — GYM 15
 16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
    the Hamptons, JFK/airport, Atlantic City, etc.)
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
@@ -735,6 +737,17 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Leader (locked): J.R. MURPHY** — pro/prospect catcher as the gym boss; hard-nosed academy
   trainer energy. Elite athletes/coaches as grunt trainers.
 - **Type / Badge:** TBD (athletic/baseball → Fighting). Confirm at type pass.
+
+### #14 — KILLINGTON, VT — GYM 14 (skiing / Ice) — DRAFT
+- **Travel (locked 2026-06-21):** from **Florida (IMG), FLY to Killington, Vermont** — far north,
+  snowy mountains (big climate swing south→north).
+- **Mountain layout:** ride the **chairlift up the slopes**; the **GYM is at the TOP of the
+  mountain.** Skiers/snowboarders as grunt trainers; Ice theme.
+- **On-slope LOCATIONS:** the **Wobbly Barn** (heal/après-ski spot) and a **Jamaican jerk
+  restaurant** on the slopes (food spot, flavor NPCs — jerk-chicken-in-the-snow gag).
+- **Leader (locked): KENNY** — **Dad's friend.** Running bit: Kenny reminisces about how he and
+  Dad **used to spit on people from the chairlift.** Warm-but-degenerate old-buddy energy.
+- **Type / Badge:** TBD (Ice). Confirm at type pass.
 
 ## ★ GAMEPLAY MECHANICS / DATA TWEAKS
 - **Max IVs + competitive natures for all Pokémon (2026-06-21):**
