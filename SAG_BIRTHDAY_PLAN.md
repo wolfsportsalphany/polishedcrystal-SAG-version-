@@ -28,6 +28,20 @@ on top of it.** The personalization is what makes it Shane's, not the base.
 ## ★★ STAGING SUMMARY — current state before we start building ★★
 The complete picture as of 2026-06-21, so we're aligned before cutting code.
 
+### ⚠️ PLATFORM DECISION (2026-06-21): move to GBA — fork pokeemerald + expansion
+Goal is a **GBA (.gba)** ROM. Polished Crystal is **GBC** (no GBA version exists; a .gbc does run
+on GBA hardware/emulators, but we want a true GBA game). **Chosen base: `pret/pokeemerald` +
+`rh-hideout/pokeemerald-expansion`.** Rationale:
+- **Porymap visual map editor** → makes the giant custom NYC region actually buildable (vs blind on GBC).
+- **Expansion** = modern QOL (Gen 1–9 species, Abilities, Phys/Special split, Natures, Fairy, modern
+  moves/items) — matches/beats Polished Crystal's features.
+- Clean, open, well-documented decomp; the standard base for total-conversion hacks.
+- **NOT Radical Red** (CFRU binary hack, no clean source to fork).
+- **All design in this doc ports over unchanged.** Only the 3 small pokecrystal code edits
+  (Justin/Hudson Yards/Shane renames) are throwaway and get redone on the new base.
+- **NEXT STEP (pending):** stand up the pokeemerald+expansion repo (new repo or repurpose this one),
+  install devkitARM toolchain, verify a clean baseline `.gba` build, then port the opening.
+
 ### What the game IS
 A total-conversion of **Polished Crystal** (keep its engine/QOL/features) where the whole content
 layer is rebuilt as **Shane Austin Gaer's life, mapped onto one big interconnected NYC/tri-state
