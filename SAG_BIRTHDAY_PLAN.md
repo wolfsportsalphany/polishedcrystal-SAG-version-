@@ -87,6 +87,23 @@ Times Square → Justin → Sidley Austin gym.
 - Exact **starting Eevee level**; the **species→nature** table; **Joe's** exact role.
 - Custom **Armored Mewtwo sprite** + **mirror-team** custom code (build-phase engineering).
 
+## ★ NEW-REPO HANDOFF (GBA base) — start here in the new session
+- **Base forked (2026-06-21):** `rh-hideout/pokeemerald-expansion` → your fork (e.g.
+  `wolfsportsalphany/pokemon-sag-version`). This is the GBA engine going forward.
+- **Source of truth:** copy **this `SAG_BIRTHDAY_PLAN.md`** into the new repo first thing — it holds
+  the entire design (world/geography, 15 gyms + buildouts, Mewtwo Island arc, cast, mechanics).
+- **First steps in the new session:**
+  1. Copy `SAG_BIRTHDAY_PLAN.md` over; commit.
+  2. Install toolchain (**devkitARM** + agbcc/modern gcc per the fork's `INSTALL.md`); verify a clean
+     baseline **`.gba`** build.
+  3. Set up **Porymap** for visual map editing (the custom NYC region).
+  4. Re-apply the throwaway pokecrystal edits on the new base: default player name **Shane**, rival
+     default **Justin**, starting town **Hudson Yards**, starting party **Lv1 Gastly + Lv1 Mankey**
+     (+ Jared's Eevee).
+  5. Build the opening slice (Hudson Yards → Times Square → Gym 1 Sidley Austin → Justin).
+- **Still to design before/while building:** **Gym 16**, the **Elite Four (×4)**, the **Champion**,
+  and the **secret final boss**.
+
 ## Status Legend
 - [ ] Not started
 - [~] In progress
